@@ -1,0 +1,23 @@
+Organization: 4.0
+The individual seems to be organized and takes charge in situations where they know where everything goes, as seen in the microbiology class example.
+
+Prudence: 3.5
+The person appears to be prudent, as they mentioned not acting on impulses to get something they want badly at work and not being a "doggy" kind of person.
+
+Sociability: 3.5
+The individual is sociable, especially when with friends or people they like, as they describe themselves as outgoing, joyful, and laughing.
+
+Social self-esteem: 3.0
+The person seems to have moderate social self-esteem, as they feel more comfortable with themselves when they are with people they know and like.
+
+Liveliness: 4.0
+The individual is lively when in a good mood and with friends, as they describe themselves as the life of the party and making jokes.
+
+Social boldness: 3.0
+The person's social boldness depends on the group they are in, as they are more likely to be a listener in work or school settings and more likely to be a leader in groups of women.
+
+Diligence: 3.0
+The individual's diligence seems to be moderate, as they mentioned feeling scared and uncomfortable when faced with a more challenging task than usual.
+
+Perfectionism: 2.5
+The person appears to have some perfectionist tendencies, as they mentioned feeling nervous and anxious when a task requires attention to detail, but their overall perfectionism seems to be on the lower side.

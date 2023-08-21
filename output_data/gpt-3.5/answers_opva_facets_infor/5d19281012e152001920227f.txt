@@ -1,0 +1,15 @@
+Liveliness: 1.0 - Based on the answer to question 7, the person did not seem to actively try to raise their team members' spirits and appeared to lack liveliness.
+
+Social self-esteem: 3.0 - Based on the answer to question 1, the person appeared to have some level of social self-esteem but was also affected by being in a social setting with unfamiliar people.
+
+Perfectionism: 3.5 - Based on the answer to question 6, the person exhibited a strong sense of not wanting to make mistakes during their driver's test and worked hard to prepare and avoid any errors.
+
+Sociability: 2.0 - Based on the answer to question 5, the person did not seem to prioritize socializing after work and instead chose to focus on their job.
+
+Social boldness: 2.5 - Based on the answer to question 3, the person seemed somewhat proud of their ability to discuss papers in a class setting but did not necessarily exhibit a strong social boldness.
+
+Diligence: 4.0 - Based on the answer to question 4, the person exhibited a strong sense of diligence and determination when faced with a challenging task and actively worked hard to overcome any obstacles.
+
+Prudence: 2.5 - Based on the answer to question 8, the person appeared to act on an impulse to put themselves out of their comfort zone for work purposes but also seemed to consider the potential consequences of this decision.
+
+Organization: 3.5 - Based on the answer to question 2, the person exhibited a strong sense of organization and attention to detail when it came to using expensive microscopy equipment for their job.

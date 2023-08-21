@@ -1,0 +1,17 @@
+Honesty-Humility: 4.0
+The respondent was honest about their social anxiety and lack of understanding of certain questions.
+
+Emotionality: 2.0
+The respondent described feeling uncomfortable and shy in social settings but did not provide much insight into their emotional state during other situations.
+
+Extraversion: 1.0
+The respondent clearly stated their discomfort in social settings and avoidance of conversation.
+
+Agreeableness: 3.0
+The respondent demonstrated some concern for the well-being of their team members and a willingness to listen during group discussions.
+
+Conscientiousness: 3.5
+The respondent expressed a desire to pay attention to details and avoid making mistakes but also mentioned the need to take breaks and pass tasks to others.
+
+Openness to Experience: 2.5
+The respondent did not provide much detail about their openness to new experiences or ideas, but did express some willingness to try new things (e.g. practicing talking to customers) and take note of certain details.

@@ -1,0 +1,15 @@
+Liveliness: 4.0 - The individual seems to have a positive and cheerful disposition and is able to uplift others when needed.
+
+Social self-esteem: 4.5 - The individual comes across as confident and comfortable in social settings, able to make connections with others easily.
+
+Perfectionism: 3.5 - The individual values structure and organization but doesn't seem to attach too tightly to exacting standards, instead focusing on getting things done efficiently.
+
+Sociability: 4.0 - The individual favors social interaction and participation as a means to build relationships and foster teamwork.
+
+Social boldness: 3.5 - The individual listens well and is able to mediate discussion points and consider multiple perspectives without taking sides.
+
+Diligence: 3.5 - The individual is able to push themselves to complete tasks, but relies on structure and lists as a means to do so.
+
+Prudence: 4.0 - The individual favors planning and strategy over acting impulsively, taking time to consider outcomes before initiating action.
+
+Organization: 3.5 - The individual values organization and cleanliness, and is able to achieve tasks in a structured way while maintaining a "big picture" focus.

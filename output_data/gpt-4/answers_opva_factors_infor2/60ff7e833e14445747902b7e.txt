@@ -1,0 +1,9 @@
+Conscientiousness: 3.3 
+Extraversion: 3.7 
+
+Reasoning:
+The answers given range from somewhat unclear to very coherent with the assigned HEXCO factor. 
+
+For Conscientiousness, the responses alluded to detailed-oriented and careful behavior, indicating higher conscientiousness. For instance, in answers like in Question 6, the person's focus on achieving results and paying attention to details is apparent. However, in some other answers such as Question 2 and 4, the respondent's remarks are rather vague and hard to follow, making it difficult to discern their level of conscientiousness accurately. As such, a moderately high rating of 3.3 seems to be a balanced estimate.
+
+For Extraversion, the person uses words that describe very active and social behaviors. They talk about being outgoing, engaging with others, and uplifting others in challenging situations in Questions like 3, 5, and 7. This suggests a higher level of extraversion. Yet, in Question 1, the respondent seems to express discomfort in new social settings, suggesting some level of introversion as well. Furthermore, the coherence level of the person's responses varies, making it difficult to solidly ascertain their extraversion level. Therefore, a slightly higher than average score of 3.7 is approximated for Extraversion.

@@ -1,0 +1,25 @@
+Sociability: 2.5
+The individual seems to prefer socializing with familiar people and may not be very outgoing in larger social settings.
+
+Diligence: 4.0
+The person appears to be hard-working, persevering, and willing to put in extra effort to complete challenging tasks.
+
+Social boldness: 2.0
+They tend to take a listening and observing role in group discussions and may not be very assertive in unfamiliar situations.
+
+Social self-esteem: 2.5
+The individual seems to be shy and may not feel comfortable introducing themselves to new people in social settings.
+
+Perfectionism: 4.0
+The person appears to be thorough, cautious, and diligent when it comes to paying attention to details and avoiding mistakes.
+
+Liveliness: 3.0
+While they may not have experienced many situations where team members were feeling down, they are willing to help and offer support when needed.
+
+Organization: 4.0
+The individual seems to be considerate and responsible when it comes to organizing their work and communicating with their team.
+
+Prudence: 4.5
+The person appears to be cautious and thoughtful in their decision-making process, rather than acting impulsively.
+
+These ratings are based on the individual's responses to the questions, which provide insight into their personality traits according to the HEXACO model. The individual seems to be more introverted and cautious, with a strong focus on diligence, organization, and prudence.

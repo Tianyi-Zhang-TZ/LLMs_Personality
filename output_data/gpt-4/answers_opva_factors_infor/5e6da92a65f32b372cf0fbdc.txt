@@ -1,0 +1,6 @@
+Conscientiousness: 3.5
+Extraversion: 2.5
+
+The individual demonstrates a moderate level of conscientiousness, as they show organization and attention to detail in some situations, such as putting away equipment at work and attempting to learn coding. However, they also show impulsiveness in the situation with the stool, which lowers their conscientiousness rating.
+
+Their extraversion rating is lower due to their preference for sticking to familiar groups in social situations and reluctance to attend after-work events. Although they do show some leadership and support for teammates in group discussions and sports, their overall tendency is towards introversion.

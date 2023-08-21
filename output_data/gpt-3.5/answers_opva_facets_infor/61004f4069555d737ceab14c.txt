@@ -1,0 +1,17 @@
+Liveliness: 2.0 - The person describes themselves as not being a highly enthusiastic person, indicating a lower score on this facet.
+
+Social self-esteem: 2.5 - The person admits to feeling uncomfortable in social situations which suggests a lower score on this facet, but also mentions being comfortable with technology and completing tasks, indicating a higher score.
+
+Perfectionism: 4.0 - The person describes themselves as having strong attention to detail and being thorough in their work, indicating a higher score on this facet.
+
+Sociability: 2.5 - The person enjoys going to social events with people they are close to, but not with those they are not comfortable with, suggesting a middle score on this facet.
+
+Social boldness: 2.0 - The person emphasizes their listening role in group discussions and feeling uncomfortable in unfamiliar social situations, indicating a lower score on this facet.
+
+Diligence: 4.0 - The person describes themselves as always pushing themselves to complete tasks, even if it takes longer than usual, indicating a higher score on this facet.
+
+Prudence: 4.0 - The person exhibits caution and careful consideration in decision-making, indicating a higher score on this facet.
+
+Organization: 3.5 - The person feels comfortable with technology and completing tasks, indicating a higher score on this facet. However, they also mention borrowing equipment and having to return it to its rightful owners, suggesting a middle score. 
+
+Overall, this person scores higher in Perfectionism, Diligence, and Prudence. They score lower in Liveliness and Social boldness, and have middle scores in the other facets.

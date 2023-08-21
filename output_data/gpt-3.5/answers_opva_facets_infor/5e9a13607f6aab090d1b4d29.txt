@@ -1,0 +1,15 @@
+Liveliness: 2.5 - The answer to question 7 indicated some inclination towards raising team spirit, but overall there was not a strong indication of a lively personality.
+
+Social self-esteem: 2.0 - The answer to question 1 indicated discomfort in social situations. There was not a strong indication of high social self-esteem in the answer.
+
+Perfectionism: 2.5 - The answer to question 6 indicated some focus on details and avoiding mistakes, but there was not a strong indication of perfectionism in the answer.
+
+Sociability: 3.0 - The answer to question 5 indicated a willingness to socialize after work, and overall there was a moderate indication of sociability.
+
+Social boldness: 2.5 - The answer to question 3 indicated some willingness to take on a leadership role in a group discussion, but overall there was not a strong indication of social boldness.
+
+Diligence: 2.5 - The answer to question 4 indicated some willingness to push oneself harder when faced with a challenging task, but overall there was not a strong indication of high diligence.
+
+Prudence: 2.0 - The answer to question 8 indicated some impulsivity, and overall there was not a strong indication of high levels of prudence.
+
+Organization: 2.5 - The answer to question 2 indicated some effort to put equipment back in its place, but overall there was not a strong indication of high levels of organization.

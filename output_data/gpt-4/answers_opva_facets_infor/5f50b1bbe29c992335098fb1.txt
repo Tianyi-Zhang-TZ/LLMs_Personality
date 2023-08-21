@@ -1,0 +1,25 @@
+Sociability: 3.0
+The individual seems to be reserved initially but becomes more comfortable in social situations over time, especially when they have attended more events and become familiar with their coworkers.
+
+Diligence: 4.5
+The individual is determined to complete tasks assigned to them and would not pass them on to someone else. They are willing to ask for help if needed but are committed to finishing the task themselves.
+
+Social boldness: 2.5
+The individual is generally shy and reserved in group discussions, preferring to take a listening role rather than a leading one. However, they still make an effort to contribute their input to the discussion.
+
+Social self-esteem: 3.0
+The individual feels uncomfortable in social settings where they don't know anyone but can push themselves to start conversations and become more comfortable over time.
+
+Perfectionism: 4.5
+The individual pays close attention to detail in their work and strives to complete tasks without mistakes. They believe that not paying attention to detail is unacceptable.
+
+Liveliness: 3.0
+The individual's ability to raise the spirits of their team members depends on their relationship with them. They are more likely to try and raise the spirits of those they supervise, while they may use logic and discussion with peers or superiors.
+
+Organization: 4.5
+The individual is very organized and believes in keeping their work environment clean and orderly. They make sure to put equipment back in its place after use and lead by example in maintaining tidiness.
+
+Prudence: 4.0
+The individual is not impulsive and prefers to think through decisions carefully, even when they want something badly. They consider the best and worst-case scenarios before acting.
+
+These ratings are based on the individual's responses to the questions, which provide insight into their personality traits according to the HEXACO model. The ratings take into account the overall impression of the individual's behavior and attitudes in various situations.

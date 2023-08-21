@@ -1,0 +1,23 @@
+Sociability: 2.0
+The individual tends to skip after-work social events and prefers to keep to themselves in social settings, indicating a lower level of sociability.
+
+Diligence: 4.0
+The person pushes themselves harder when faced with challenging tasks and feels motivated in such situations, showing a high level of diligence.
+
+Social boldness: 3.5
+The individual plays both listening and leading roles in group discussions and is willing to share their ideas, indicating a moderate level of social boldness.
+
+Social self-esteem: 2.5
+The person is introverted and reserved in unfamiliar social settings, suggesting a lower level of social self-esteem.
+
+Perfectionism: 4.0
+The individual is focused and meticulous when attention to detail is required, indicating a high level of perfectionism.
+
+Liveliness: 2.0
+The person does not usually try to raise the spirits of their team members unless it affects work quality, suggesting a lower level of liveliness.
+
+Organization: 4.5
+The individual feels good about putting things back in place after finishing work and maintains high quality, indicating a high level of organization.
+
+Prudence: 4.5
+The person refrains from acting on impulses and focuses on making thoughtful decisions, showing a high level of prudence.

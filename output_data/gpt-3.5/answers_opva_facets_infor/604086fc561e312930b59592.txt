@@ -1,0 +1,15 @@
+Liveliness: 4.0 - The person seems to enjoy social situations and is willing to take action to raise the spirits of others.
+
+Social self-esteem: 2.5 - The person felt uncomfortable and introverted in a social setting where they didn't know anyone.
+
+Perfectionism: 3.5 - The person pays close attention to detail in order to avoid making mistakes, particularly in editing important documents at work.
+
+Sociability: 4.0 - The person enjoys socializing with others and sees it as an opportunity to get to know coworkers better.
+
+Social boldness: 3.5 - The person took a leading role in a group discussion and was able to guide the group towards a common goal.
+
+Diligence: 4.0 - The person is a dedicated hard worker who is willing to push themselves even when a task is more challenging than usual.
+
+Prudence: 2.5 - The person sometimes acts on impulse, as evidenced by jumping at the opportunity for a raise without knowing if they were eligible.
+
+Organization: 4.0 - The person is a hardworking and dedicated employee who makes sure to return equipment to its proper place and gets tasks done on time.

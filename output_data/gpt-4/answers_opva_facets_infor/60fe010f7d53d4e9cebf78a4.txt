@@ -1,0 +1,25 @@
+Organization: 4.5
+The individual seems to be very organized and follows rules, as shown in their response to putting things back in place at work.
+
+Prudence: 4.0
+The person appears to be prudent, as they acted on an impulse to sign up for holiday shifts to make their life easier and be more organized.
+
+Sociability: 3.5
+The individual is introverted but still enjoys social events and building relationships with coworkers, indicating a moderate level of sociability.
+
+Social self-esteem: 3.0
+The person is quiet in social settings where they don't know anyone but still tries to join in on topics they can relate to, showing a moderate level of social self-esteem.
+
+Liveliness: 3.5
+The individual tries to raise the spirits of their team members when they are feeling down, indicating a moderate level of liveliness.
+
+Social boldness: 3.5
+The person is willing to take on a leading role in group discussions when others don't want the responsibility, showing a moderate level of social boldness.
+
+Diligence: 4.5
+The individual pushes themselves harder when faced with challenging tasks, demonstrating a high level of diligence.
+
+Perfectionism: 4.0
+The person pays close attention to details and sometimes focuses too much on them, indicating a high level of perfectionism.
+
+Overall, the individual seems to be highly organized, diligent, and perfectionistic, with moderate levels of prudence, sociability, social self-esteem, liveliness, and social boldness.

@@ -1,0 +1,11 @@
+Honesty-Humility: 3.0 - The person does not demonstrate an overly high or low level of honesty-humility in their responses.
+
+Emotionality: 2.5 - The person seems to experience some level of anxiety or stress in social situations, but also shows a degree of emotional stability in completing challenging tasks.
+
+Extraversion: 2.0 - The person does not appear to be highly extraverted, as they tend to be reserved and distant in social situations.
+
+Agreeableness: 3.0 - The person demonstrates a balanced level of agreeableness, being willing to listen and provide support to team members, but also expressing their own opinions and desires when motivated to do so.
+
+Conscientiousness: 3.5 - The person exhibits a generally high level of conscientiousness, as they work diligently to complete challenging tasks and take responsibility for their assigned work.
+
+Openness to Experience: 2.0 - The person does not seem highly open to new experiences or perspectives, tending to prefer familiar and comfortable situations.

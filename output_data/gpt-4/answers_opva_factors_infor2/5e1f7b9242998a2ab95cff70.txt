@@ -1,0 +1,6 @@
+Conscientiousness: 3.5
+Extraversion: 2.0
+
+The participant expressed a certain preference for orderliness and detail-orientation in their work, showing responsibility (as seen in question 2 when they felt pressured due to the cluttered state of the workplace). They did not express enjoyment in leadership or group-oriented tasks but demonstrated discipline and dutifulness in completing difficult tasks (question 4). However, they did admit to struggle a bit when a task was overwhelming, hence the 3.5 rating on Conscientiousness. 
+
+Regarding Extraversion, the participant clearly stated that they are introverted, indicating that social situations tend to make them feel uncomfortable (as seen in their responses to questions 1, 3, and 5). They mentioned avoiding after-work social events and feeling more comfortable in a listener's role than a leader's position. While they have shown some level of social engagement (like trying to lift the team spirit in question 7), these instances were noted as not being typical behavior for them. Hence, the rating for Extraversion is set at a relatively low value of 2.0.

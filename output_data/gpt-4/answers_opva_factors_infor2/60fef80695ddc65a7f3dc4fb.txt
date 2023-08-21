@@ -1,0 +1,6 @@
+Conscientiousness: 3.5
+Extraversion: 2.5 
+
+The individual's conscientiousness score is higher based on the answers given. They describe a thoughtful and methodical approach to dealing with details (in Question 6), at times persisting with problems on their own (Question 2), and carefully considering the impact of their decisions on their physical and mental wellness (Question 4). Even though they admit to some level of procrastination, their dedication to improving their work habits and self-consciousness shows an acceptable degree of conscientiousness. 
+
+Meanwhile, the extraversive traits exhibited by this individual aren't very pronounced. Though at times demonstrating qualities of a leader (Question 3) and showing empathy towards teammates (Question 7), they also convey a recurrent theme of being timid and reserved in social situations (Questions 1 and 5). This shows a lower level of extraversion, resulting in the lower score. Also, when this person feels a lack of confidence (Question 8), it further underlines their introverted tendencies.

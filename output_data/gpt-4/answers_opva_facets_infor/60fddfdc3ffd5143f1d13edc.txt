@@ -1,0 +1,23 @@
+Organization: 4.0
+The individual seems to value organization and tidiness in the workplace, both for their own benefit and for the benefit of their coworkers.
+
+Prudence: 3.5
+The person appears to be cautious and thoughtful in their actions, especially when it comes to pursuing a promotion, but may not always be able to resist acting on impulse.
+
+Sociability: 2.5
+The individual identifies as introverted and tends to avoid social situations where they don't know people well, but they do make an effort to be nice and ask questions when interacting with others.
+
+Social self-esteem: 2.5
+The person seems to be somewhat shy and self-conscious in social situations where they don't know others, but they do try to make a good impression and engage in conversation.
+
+Liveliness: 3.0
+The individual tries to be positive and supportive of their teammates when they are feeling down, but they may not always be the most energetic or outgoing person in the room.
+
+Social boldness: 3.0
+The person makes an effort to be a good listener and ask questions in group discussions, but they may not always feel comfortable taking on a leading role.
+
+Diligence: 4.0
+The individual is a hard worker and takes their job seriously, even when faced with challenging tasks and a lack of support from others.
+
+Perfectionism: 3.5
+The person pays attention to detail and strives to avoid mistakes in their work, but they acknowledge that they have made errors in the past and try not to dwell on them too much.

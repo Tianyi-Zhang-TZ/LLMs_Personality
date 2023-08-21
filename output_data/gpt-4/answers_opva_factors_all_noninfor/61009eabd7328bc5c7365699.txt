@@ -1,0 +1,19 @@
+Honesty-Humility: 4.0
+The person seems to be honest and humble in their responses, acknowledging their feelings and experiences without exaggerating or downplaying them.
+
+Emotionality: 3.5
+The person demonstrates a moderate level of emotionality, as they express their feelings and concerns in various situations but do not seem overly emotional or sensitive.
+
+Extraversion: 2.5
+The person appears to be more introverted, as they often prefer listening roles in group discussions and may skip social events if they don't know the attendees well. However, they do make an effort to engage with others when necessary.
+
+Agreeableness: 4.0
+The person seems to be quite agreeable, as they show empathy and support for team members who are feeling down and try to maintain a positive attitude in group settings.
+
+Conscientiousness: 4.5
+The person demonstrates a high level of conscientiousness, as they are detail-oriented, focused on completing tasks accurately, and willing to push themselves to overcome challenges.
+
+Openness to Experience: 3.5
+The person shows a moderate level of openness to experience, as they are willing to engage in new situations (e.g., grad school interviews, working in an unfamiliar lab) but may also prefer familiar environments and people.
+
+These ratings are based on the person's responses to the questions, which provide insight into their overall personality traits according to the HEXACO model.

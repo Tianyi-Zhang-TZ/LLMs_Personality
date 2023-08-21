@@ -1,0 +1,17 @@
+Based on the answers provided for each question, the personality scores for each facet are as follows:
+
+Liveliness: 3.5 - The individual described themselves as reserved and quiet, but did engage in social events and was able to lift the spirits of team members when necessary.
+
+Social self-esteem: 2.5 - The individual described feeling uncomfortable in social settings and lacking social confidence, which suggests lower social self-esteem.
+
+Perfectionism: 4.0 - The individual displayed a strong attention to detail and a desire to do things correctly, such as in their success at the escape room and their friend's bar exam situation.
+
+Sociability: 3.0 - While the individual did participate in social events, they described themselves as a reserved person who prefers to unwind alone and doesn't particularly enjoy socializing with coworkers.
+
+Social boldness: 2.5 - The individual described feeling awkward and backwards in social situations, especially when discussing sensitive or potentially offensive topics.
+
+Diligence: 3.5 - The individual displayed a strong work ethic and dedication to personal goals, such as completing a difficult race and striving for career advancement.
+
+Prudence: 3.5 - The individual was cautious in conversations, attempting to avoid offending or upsetting others, and also displayed a strong sense of financial responsibility when it came to their job and career goals.
+
+Organization: 2.5 - The individual struggled with organization and attention to detail when it came to tasks like setting up equipment, which suggests a lower level of focus on this facet.

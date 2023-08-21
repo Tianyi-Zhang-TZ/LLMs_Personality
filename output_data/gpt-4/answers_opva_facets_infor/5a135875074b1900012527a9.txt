@@ -1,0 +1,23 @@
+Sociability: 2.5
+The individual seems to prefer being alone and doesn't actively seek social interactions, but they do attend events when required.
+
+Social boldness: 3.0
+The person does not seem to be a natural leader but is willing to speak up when necessary and participate in group discussions.
+
+Liveliness: 3.5
+They try to be more positive and make people laugh at work, showing some level of liveliness in their interactions with others.
+
+Social self-esteem: 2.5
+The individual appears to be somewhat reserved and uncomfortable in social situations, especially when they don't know the people around them.
+
+Organization: 3.0
+The person seems to have a more laid-back approach to organization, but they do make an effort to keep things in order when necessary.
+
+Perfectionism: 4.0
+The individual is detail-oriented and takes their work seriously, striving to avoid mistakes and get things right.
+
+Prudence: 3.5
+They seem to be cautious in their actions, but there are instances where they have acted impulsively, such as retrieving their belongings after being fired.
+
+Diligence: 4.0
+The person appears to be committed and goal-oriented, putting in effort and pushing themselves when they are passionate about a task.

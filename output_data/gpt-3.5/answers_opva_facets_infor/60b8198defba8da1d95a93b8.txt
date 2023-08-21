@@ -1,0 +1,15 @@
+Liveliness: 2.5 - The responses did not indicate a particularly lively personality, but also did not rule it out entirely.
+
+Social self-esteem: 2.0 - The response to the first question showed discomfort in a social setting, suggesting low social self-esteem.
+
+Perfectionism: 3.5 - The response to the sixth question indicated a willingness to pay attention to detail and get things right, suggesting a higher level of perfectionism.
+
+Sociability: 2.5 - The responses showed a mix of introverted and extroverted tendencies, indicating an average level of sociability.
+
+Social boldness: 2.0 - The response to the third question indicated a preference for listening and observing rather than taking a leading role, suggesting low social boldness.
+
+Diligence: 4.0 - The response to the fourth question showed a strong willingness to push oneself to complete a task thoroughly and correctly, indicating a high level of diligence.
+
+Prudence: 3.5 - The response to the eighth question indicated a measured approach to pursuing goals, suggesting a higher level of prudence.
+
+Organization: 3.0 - The response to the second question showed a willingness to stay organized and put things in their proper place, but did not necessarily indicate a very high level of organizational skills overall.

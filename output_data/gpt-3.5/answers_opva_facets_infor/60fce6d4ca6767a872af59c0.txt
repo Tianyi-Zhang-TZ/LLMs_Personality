@@ -1,0 +1,15 @@
+Liveliness: 3.0 - The person seems to be capable of being lively in social situations when necessary, but it is not their default mode of operation.
+
+Social self-esteem: 4.0 - The person seems to be very comfortable in social situations, even when meeting new people, and knows how to navigate these situations with ease.
+
+Perfectionism: 3.5 - The person has a desire for things to be done well, but is also capable of stepping back and delegating tasks to others when necessary.
+
+Sociability: 4.0 - The person places a high value on social connections, and seems to enjoy spending time with their coworkers and getting to know them outside of work.
+
+Social boldness: 3.5 - The person is comfortable taking on a leadership role, but also recognizes the importance of listening to others and incorporating their ideas.
+
+Diligence: 4.0 - The person is highly motivated to complete tasks, even when they are difficult or require attention to detail. They are also capable of staying focused and carrying out complex tasks to completion.
+
+Prudence: 4.0 - The person is thoughtful and deliberate in their decision-making, preferring to weigh all options carefully before acting. They recognize the importance of not rushing into things and taking a measured approach.
+
+Organization: 3.5 - The person is capable of staying organized, even when things are chaotic, but may struggle when things are not immediately clear or there are sudden changes.

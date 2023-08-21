@@ -1,0 +1,10 @@
+Sociability: 4.0 - The individual seems to be open to attending social events and interacting with new people, but may not always be the most outgoing in every situation.
+Diligence: 4.5 - The individual appears to be committed to their work and pushes themselves to complete tasks on time, even when faced with challenges.
+Social boldness: 3.5 - The individual is able to take on both listening and leading roles in group discussions, but may not always be the most assertive in every situation.
+Social self-esteem: 3.5 - The individual seems to be comfortable in social situations with new people, but may initially feel some discomfort when they don't know anyone.
+Perfectionism: 4.0 - The individual pays close attention to details in their work, especially when it is critical for the success of a project, but may not be overly perfectionistic in all aspects of their life.
+Liveliness: 4.0 - The individual is willing to help raise the spirits of their team members when they are feeling down and seems to have a generally positive attitude.
+Organization: 4.5 - The individual appears to be very organized, making sure to put things back in their proper place after using them and ensuring their work environment is orderly.
+Prudence: 3.5 - The individual is willing to act on an impulse when they believe it will benefit their work, but may not always be the most cautious or prudent in every situation.
+
+These ratings are based on the individual's answers to the questions, which provide insight into their personality traits according to the HEXACO model. The ratings may not be entirely accurate, as they are based on self-reported information and a limited number of questions. However, they provide a general overview of the individual's personality.

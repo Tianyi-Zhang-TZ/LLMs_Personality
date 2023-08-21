@@ -1,0 +1,15 @@
+Liveliness: 2.5 - The responses did not indicate a particularly lively or energetic personality, but also did not suggest a completely dull or unenthusiastic personality.
+
+Social self-esteem: 2.0 - The responses indicated a tendency towards withdrawn behavior in social situations where the individual does not already know people. This suggests a lower level of social self-esteem.
+
+Perfectionism: 3.5 - The responses indicated a strong attention to detail and a desire to complete tasks carefully and thoroughly. This suggests a higher level of perfectionism.
+
+Sociability: 2.0 - The responses indicated a tendency towards withdrawn behavior in social situations, but also an effort to work on becoming more social. This suggests an average level of sociability.
+
+Social boldness: 2.5 - The responses indicated a more reserved personality, but also an ability to become more outgoing in situations where the individual is confident in their skills. This suggests an average level of social boldness.
+
+Diligence: 3.0 - The responses indicated a willingness to push through challenges, even in situations where the individual may doubt their abilities. This suggests a slightly above average level of diligence.
+
+Prudence: 3.5 - The responses indicated a tendency to carefully consider decisions and potential consequences before acting. This suggests a higher level of prudence.
+
+Organization: 3.5 - The responses indicated a strong desire to complete tasks in a methodical, organized manner, and to take the time to ensure that everything is done correctly. This suggests a higher level of organization.

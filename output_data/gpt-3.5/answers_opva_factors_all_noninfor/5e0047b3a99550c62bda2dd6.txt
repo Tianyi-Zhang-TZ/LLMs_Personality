@@ -1,0 +1,11 @@
+Honesty-Humility: 3.0 - The person does not show clear signs of high or low Honesty-Humility, but some of their responses suggest a neutral stance.
+
+Emotionality: 2.0 - The person appears to be relatively low in Emotionality, as their responses lack emotional depth or expression.
+
+Extraversion: 2.5 - The person appears to be mildly introverted, as they express a preference for solitude and can be hesitant to socialize in unfamiliar settings.
+
+Agreeableness: 3.0 - The person appears to be moderately agreeable, as they are warm-hearted and considerate, but also have a solitary side and can be impulsive.
+
+Conscientiousness: 3.5 - The person appears to be reasonably conscientious, as they are determined, persistent, and focused when required to pay attention to details.
+
+Openness to Experience: 2.5 - The person appears to be moderately low in Openness to Experience, as they do not express much interest in novel experiences or pursuing intellectual curiosity.

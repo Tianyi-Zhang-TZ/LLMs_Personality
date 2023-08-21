@@ -1,0 +1,6 @@
+Extraversion: 3.5
+Conscientiousness: 4.0
+
+Extraversion rating: The individual describes themselves as reserved and more comfortable observing and analyzing social situations before actively participating. While they may prefer to be familiar with people and expectations, they are willing to attend social events if necessary. However, they generally decline social invitations and are more reserved in social settings. This suggests a moderate level of extraversion.
+
+Conscientiousness rating: The individual demonstrates a strong preference for organization and attention to detail. They become frustrated by disorder and take the initiative to find alternative ways to arrange equipment for accessibility. They also exhibit determination and commitment to completing tasks, refusing to give up or pass on responsibilities. They also take pride in paying attention to details and recognize the importance of doing so in their work. This indicates a high level of conscientiousness.

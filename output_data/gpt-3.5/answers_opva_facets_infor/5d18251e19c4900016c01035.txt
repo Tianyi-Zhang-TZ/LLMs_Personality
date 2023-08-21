@@ -1,0 +1,10 @@
+Liveliness: 2.0 - The individual did not express much liveliness or enthusiasm in their responses to any of the questions.
+Social self-esteem: 3.5 - The individual mentioned feeling uncomfortable in social situations initially but has worked on improving in that area.
+Perfectionism: 2.0 - The individual did not express much concern for getting tasks perfect and seemed to struggle with detail-oriented work.
+Sociability: 2.5 - The individual mentioned being invited to a social event but did not seem overly eager to attend or describe enjoying such events in general.
+Social boldness: 2.5 - The individual described feeling nervous about speaking in group settings but also mentioned attending a speaking event and attempting to present regardless.
+Diligence: 2.0 - The individual struggled with a challenging task and did not mention going above and beyond to complete it.
+Prudence: 2.5 - The individual did not seem impulsive in making decisions or taking actions.
+Organization: 1.0 - The individual mentioned not having much experience with physical tasks or equipment organization and did not seem overly concerned with being organized in general. 
+
+Overall, this individual seems to score lower in most facets of personality, with the exception of social self-esteem and a moderate score in social boldness. They seem to struggle with detail-oriented tasks, organization, and enthusiasm in social and work-related events.

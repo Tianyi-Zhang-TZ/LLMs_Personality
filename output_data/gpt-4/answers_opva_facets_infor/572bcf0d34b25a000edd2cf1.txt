@@ -1,0 +1,25 @@
+Organization: 4.0
+The individual seems to have good organizational skills and takes pride in accomplishing tasks that involve organizing and tidying up.
+
+Prudence: 4.5
+The individual is not impulsive and prefers to think things through before making decisions, weighing the pros and cons of each situation.
+
+Sociability: 3.5
+The individual is open to attending social events but takes into consideration factors such as tiredness and prior commitments. They may not be the most outgoing person but are willing to engage in social situations.
+
+Social self-esteem: 3.0
+The individual is initially shy and withdrawn in social situations where they don't know anyone but can come out of their shell when they find a topic of interest.
+
+Liveliness: 3.5
+The individual is willing to boost the morale of their team members and tries to maintain a positive atmosphere in group settings.
+
+Social boldness: 3.5
+The individual feels confident in taking on a leadership role in group discussions, ensuring that everyone gets a chance to express their ideas and keeping the conversation flowing.
+
+Diligence: 4.5
+The individual is proactive and persistent when faced with challenging tasks, preferring to problem-solve and work through difficulties rather than passing the task to someone else.
+
+Perfectionism: 4.0
+The individual is detail-oriented and focused when working on tasks that require attention to detail, striving to complete the task to the best of their ability.
+
+These ratings are based on the individual's responses to the questions, which provide insight into their personality traits and how they handle various situations. The individual seems to be well-rounded, with strengths in organization, prudence, and diligence, while being moderately sociable and socially bold.

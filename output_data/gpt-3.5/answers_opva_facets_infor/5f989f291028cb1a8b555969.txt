@@ -1,0 +1,24 @@
+Liveliness: 2.5 
+Social self-esteem: 2.0 
+Perfectionism: 4.0 
+Sociability: 2.5 
+Social boldness: 2.5 
+Diligence: 4.0 
+Prudence: 3.5 
+Organization: 4.0 
+
+For Liveliness, the person described themselves as generally reserved and calm in most situations, indicating a lower level of liveliness. 
+
+For Social self-esteem, the person reported feeling uncomfortable in social situations and discussing self-image issues, leading to a lower score in this facet. 
+
+For Perfectionism, the person described themselves as being detail-oriented, organized, and diligent in their work, indicating a high level of perfectionism. 
+
+For Sociability, the person reported feeling uncomfortable with work-related social events and being generally more reserved, leading to a lower score in this facet. 
+
+For Social boldness, the person described themselves as being uncomfortable in situations where they have to take the lead in discussions, indicating a moderate score in this facet. 
+
+For Diligence, the person described themselves as being willing to tackle challenging tasks and putting in extra work when necessary, indicating a high level of diligence. 
+
+For Prudence, the person took calculated risks when they felt it was necessary, but also showed restraint and caution, indicating a moderate to high score in this facet. 
+
+For Organization, the person mentioned being detail-oriented and having a place for everything, indicating a high level of organizational skills.

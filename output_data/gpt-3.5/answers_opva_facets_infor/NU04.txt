@@ -1,0 +1,8 @@
+Liveliness: 1.0 - The answer to question 7 did not provide any indication of high liveliness.
+Social self-esteem: 2.0 - The answer to question 1 suggested a lack of confidence in social situations, indicating lower social self-esteem.
+Perfectionism: 2.5 - The answer to question 6 showed some effort to pay attention to details, but also indicated a tendency to avoid excessive attention to detail, suggesting a moderate level of perfectionism.
+Sociability: 3.0 - The answer to question 5 suggested a willingness to attend social events and engage in communication, indicating moderate sociability.
+Social boldness: 2.5 - The answer to question 3 indicated some level of ability to communicate clearly but also showed some dependence on the attitudes of others, suggesting a more moderate level of social boldness.
+Diligence: 3.5 - The answer to question 4 suggested that the person tries to push themselves to complete difficult tasks and is conscientious, indicating a somewhat high level of diligence.
+Prudence: 2.5 - The answer to question 8 suggested some form of planning or strategizing before taking action, indicating moderate prudence.
+Organization: 1.5 - The answer to question 2 did not show any indication of organization.

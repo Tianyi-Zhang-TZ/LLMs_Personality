@@ -1,0 +1,6 @@
+Extraversion: 2.5
+Conscientiousness: 4.0
+
+Extraversion rating: The individual describes themselves as shy, quiet, and uncomfortable in social settings where they do not know anyone. They mention needing to know others in order to feel comfortable and are more introverted in nature. This suggests a lower level of extraversion.
+
+Conscientiousness rating: The individual exhibits traits of being attentive, organized, and detail-oriented. They mention putting everything back in its correct place and paying attention to details in their tasks. They also describe themselves as determined to turn in high-quality work, indicating a higher level of conscientiousness.

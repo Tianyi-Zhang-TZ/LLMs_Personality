@@ -1,0 +1,10 @@
+Sociability: 3.0 - The individual seems to be introverted and shy but is willing to push themselves to interact with others in social settings.
+Diligence: 4.0 - They are determined to complete tasks assigned to them and are willing to learn new skills to accomplish them.
+Social boldness: 3.5 - They are comfortable taking the lead in group discussions but also value listening to others' ideas.
+Social self-esteem: 2.5 - They feel uncomfortable in situations where they don't know anyone but gradually adapt and become more confident.
+Perfectionism: 3.5 - They strive for perfection in their work, but also acknowledge their tendency to procrastinate.
+Liveliness: 3.5 - They are motivated and cheerful in situations where they need to raise the spirits of their team members.
+Organization: 4.0 - They take pride in organizing and putting things away, ensuring that everything is in its proper place.
+Prudence: 3.0 - They are cautious about acting on impulse and prefer to justify their actions before making decisions.
+
+These ratings are based on the individual's responses to the questions, which provide insight into their personality traits according to the HEXACO model. The individual demonstrates a balance of introversion and extroversion, a strong work ethic, and a desire for organization and perfection in their work. They also show a willingness to adapt and learn in various situations, as well as a cautious approach to decision-making.

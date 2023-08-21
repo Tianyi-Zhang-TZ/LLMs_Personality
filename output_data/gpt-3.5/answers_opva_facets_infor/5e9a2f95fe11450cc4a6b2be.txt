@@ -1,0 +1,15 @@
+Liveliness: 3.5 - The individual displays a positive attitude and tries to raise the spirits of others, but also has moments of self-consciousness and discomfort.
+
+Social self-esteem: 2.5 - The individual feels socially awkward and self-conscious in new situations, leading to a lack of confidence.
+
+Perfectionism: 3.5 - The individual is very detail-oriented and organized, striving for accuracy and completeness in their work.
+
+Sociability: 2.5 - The individual feels uncomfortable in social situations, but may be willing to push themselves to attend events or engage with others.
+
+Social boldness: 3.0 - The individual may exude confidence and be willing to take on a leading role in discussions or group settings, but also has moments of being self-conscious.
+
+Diligence: 4.0 - The individual is adaptable and persistent in challenging situations, and strives to learn from their experiences in order to improve.
+
+Prudence: 3.5 - The individual is willing to take risks and act on their impulses in some situations, but also considers the consequences of their actions before making a decision.
+
+Organization: 4.0 - The individual is highly organized and detail-oriented, and values the importance of keeping things in order and avoiding mistakes.

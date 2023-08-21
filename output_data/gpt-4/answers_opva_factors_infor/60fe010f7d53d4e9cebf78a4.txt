@@ -1,0 +1,6 @@
+Conscientiousness: 4.5
+Extraversion: 2.5
+
+The person seems to score high on Conscientiousness based on their responses to questions 2, 4, and 6. They value following rules, pushing themselves harder, and paying attention to details in order to avoid mistakes. They seem organized and hardworking.
+
+On the other hand, the person seems to score low on Extraversion based on their responses to questions 1, 3, 5, and 7. They tend to be more introverted, quiet, and prefer to stay in the background rather than taking on a leading role or cheering up others.

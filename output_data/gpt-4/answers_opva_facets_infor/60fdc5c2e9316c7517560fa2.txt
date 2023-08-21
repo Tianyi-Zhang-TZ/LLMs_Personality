@@ -1,0 +1,23 @@
+Organization: 4.0
+The individual seems to value organization and efficiency, especially in a work setting, as demonstrated in their answer to Question 2.
+
+Prudence: 4.0
+The individual appears to be thoughtful and cautious in their decision-making process, as indicated in their answer to Question 8.
+
+Sociability: 4.5
+The individual enjoys social interactions and connecting with others, as shown in their answers to Questions 1 and 5.
+
+Social self-esteem: 4.0
+The individual seems comfortable in social situations and is able to connect with others easily, as demonstrated in their answer to Question 1.
+
+Liveliness: 4.0
+The individual displays enthusiasm and energy in various situations, as shown in their answers to Questions 3 and 7.
+
+Social boldness: 3.5
+The individual is willing to take on a leading role in group discussions when they feel confident and passionate about the topic, as demonstrated in their answer to Question 3.
+
+Diligence: 4.0
+The individual is willing to push themselves to complete challenging tasks, as shown in their answer to Question 4.
+
+Perfectionism: 4.0
+The individual pays attention to detail and strives to complete tasks accurately, as demonstrated in their answer to Question 6.

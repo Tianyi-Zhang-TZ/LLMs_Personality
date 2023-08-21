@@ -1,0 +1,6 @@
+Conscientiousness: 4.0 
+Extraversion: 2.0 
+
+The individual showed a strong tendency to be thorough, organized, and mindful of how their actions affect their environment. This is evident from their answers where they describe their attention to detail in their profession as a graphic designer, their care in cleaning up after a project despite the lack of motivation sometimes, and their reluctance to act impulsively despite wanting to quit their current job. Hence, they have a high conscientiousness score.
+
+As for extraversion, the individual frequently describes themselves as an introvert and shows a preference for quieter, less socially-intensive situations. They indicate unease in unfamiliar social settings, a preference for familiar faces when deciding to attend social events, and a tendency to listen more than lead in group discussions. Therefore, their extraversion score is lower. However, some willingness to push their boundaries in terms of social interaction (pushing themselves to attend events, stepping up to lead discussions when knowledgeable, and trying to uplift team members) prevents them from having the lowest possible score. Thus, an extraversion score of 2.0 seems appropriate.

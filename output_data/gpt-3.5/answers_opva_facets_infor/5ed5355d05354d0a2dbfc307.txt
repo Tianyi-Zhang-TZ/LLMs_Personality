@@ -1,0 +1,10 @@
+Liveliness: 2.0 
+Social self-esteem: 2.0 
+Perfectionism: 2.0 
+Sociability: 1.0 
+Social boldness: 1.0 
+Diligence: 3.0 
+Prudence: 3.0 
+Organization: 1.5 
+
+Overall, the responses do not provide clear indications of a strong preference for any of the HEXACO facets. While there are some instances of traits emerging (e.g., a tendency to push oneself in situations requiring diligence), the responses are generally disjointed and do not provide clear information about the individual's personality. As such, the ratings are generally low across all the facets.

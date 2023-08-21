@@ -1,0 +1,15 @@
+Liveliness: 2.0 - The individual does not seem to be very lively or enthusiastic in their responses.
+
+Social self-esteem: 2.5 - The individual expresses some level of discomfort in social situations and does not seem to have a strong sense of confidence in their interactions with others.
+
+Perfectionism: 3.0 - The individual expresses a focus on maintaining high standards and paying attention to detail.
+
+Sociability: 1.5 - The individual expresses a preference for skipping social events and does not seem to prioritize socializing.
+
+Social boldness: 2.5 - The individual expresses a willingness to collaborate and share ideas in group discussions, but may not necessarily take a leading role.
+
+Diligence: 3.5 - The individual expresses a motivation to push themselves harder in challenging tasks and does not seem to give up easily.
+
+Prudence: 3.0 - The individual expresses a belief in refraining from impulsive behavior and focusing on achieving optimal quality.
+
+Organization: 3.0 - The individual expresses a sense of satisfaction in putting things back in order and maintaining high standards in their work.

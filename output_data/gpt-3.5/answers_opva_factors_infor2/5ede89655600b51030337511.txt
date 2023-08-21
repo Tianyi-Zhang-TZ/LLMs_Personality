@@ -1,0 +1,8 @@
+Extraversion: 3.5
+Conscientiousness: 4.0
+
+Extraversion: The individual describes themselves as a mix of introverted and extroverted. They feel comfortable striking up conversations with people they don't know well and are willing to participate in social settings where they don't know anyone. Although there may be occasional awkward moments, they are generally okay in these situations, indicating a moderate level of extraversion.
+
+Conscientiousness: The individual prefers to keep things neat and orderly, and feels uncomfortable or has trouble focusing when things are messy. They have a routine of putting equipment back in its proper place after finishing using it. They strive to be organized and ready for the next task, indicating a conscientious approach to their work and environment.
+
+Overall, the individual demonstrates moderate extraversion and a higher level of conscientiousness.

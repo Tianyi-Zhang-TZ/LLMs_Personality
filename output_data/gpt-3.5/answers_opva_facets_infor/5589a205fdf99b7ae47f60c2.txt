@@ -1,0 +1,15 @@
+Liveliness: 4.0 I perceive the person as being generally spirited and enthusiastic, willing to boost the team's morale in a difficult situation.
+
+Social self-esteem: 3.0 The indication of this facet is a little ambiguous, but I would say the answer suggests being slightly introverted in social contexts. However, the person tends to attend social events and recognizes their value. 
+
+Perfectionism: 3.5 Paying attention to details and striving for accuracy in work leads me to believe that the person values thoroughness and precision, but does not appear to overly focus on details that might slow them down. 
+
+Sociability: 3.5 The person recognizes the value of socializing with coworkers and has an interest in getting to know them, but also acknowledges that it may be awkward at first.
+
+Social boldness: 2.5 It seems like the person often takes a more passive approach in group discussions and defers to others' opinions.
+
+Diligence: 4.0 The person appears to be very hardworking and conscientious, and not intimidated by difficult tasks. Additionally, they are interested in self-improvement and actively seek out development opportunities.
+
+Prudence: 3.0 The person tends to be cautious and considers the potential effectiveness of their actions before acting on an impulse, but they also recognize the importance of expressing themselves in certain situations.
+
+Organization: 3.5 The person values order and prefers to be organized, but recognizes the difficulty of keeping things in order in some situations and tries to minimize inconvenience to others.

@@ -1,0 +1,15 @@
+Liveliness: 2.5 - The answers do not indicate a high level of energetic or outgoing behavior, but also not excessively low.
+
+Social self-esteem: 3.5 - The answer to the question related to this facet suggests a moderate level of self-esteem in social situations.
+
+Perfectionism: 3.0 - The answer to the question related to this facet suggests a moderate level of attention to detail and concern for avoiding mistakes.
+
+Sociability: 2.0 - The answer to the question related to this facet suggests a lower level of interest in socializing and entertaining others.
+
+Social boldness: 2.5 - The answer to the question related to this facet suggests a moderate level of willingness to speak up and lead in group discussions.
+
+Diligence: 3.0 - The answer to the question related to this facet suggests a moderate level of persistence and dedication in challenging tasks.
+
+Prudence: 3.5 - The answer to the question related to this facet suggests a moderate level of caution and planning before taking action.
+
+Organization: 4.0 - The answer to the question related to this facet suggests a high level of enjoyment and importance placed on maintaining things in an organized way.

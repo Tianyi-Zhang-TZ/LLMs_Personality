@@ -1,0 +1,23 @@
+Liveliness: 3.5
+The person seems to have a moderate level of liveliness based on their answer to question 7, where they described being able to raise the morale of their team members. However, in other situations, such as question 5, they tend to opt out of social events and prefer to be more reserved.
+
+Social self-esteem: 2.5
+The person seems to have a lower level of social self-esteem, as they described feeling uncomfortable in unfamiliar social situations in question 1 and tend to gravitate towards people who are more like themselves. They also prefer to be an observer and listener in group situations in question 3.
+
+Perfectionism: 4.5
+The person appears to have a very high level of perfectionism, as they describe themselves as being exceedingly detailed-oriented and taking pride in paying attention to details in question 6. They also prefer to work independently in unfamiliar situations and organize equipment in question 1 and 2.
+
+Sociability: 2.5
+The person seems to have a lower level of sociability, as they tend to decline social events and be more reserved in unfamiliar situations, as mentioned in question 5 and 1.
+
+Social boldness: 2.5
+The person seems to have a lower level of social boldness, as they prefer to be a listener in group situations and tend to not act impulsively in order to achieve their objectives, as mentioned in question 3 and 8.
+
+Diligence: 4.0
+The person appears to have a high level of diligence, as they described themselves as being goal-oriented and willing to do whatever it takes to achieve their objectives in question 4. They also work at a task until it is finished and do not give up easily.
+
+Prudence: 4.0
+The person appears to have a high level of prudence, as they tend to map out the steps needed to achieve their goals or objectives and figure out the best way to get there without acting impulsively, as mentioned in question 8. 
+
+Organization: 4.5
+The person appears to have a very high level of organization, as they prefer a situation where all tools are accessible and where they expect them to be in question 2. They also strive for a situation where all equipment is within reach and tend to organize them in the most familiar way to themselves and others around them.

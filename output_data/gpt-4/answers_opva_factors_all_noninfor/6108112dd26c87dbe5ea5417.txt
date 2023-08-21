@@ -1,0 +1,17 @@
+Honesty-Humility: 4.0
+The person seems to be honest and humble in their responses, not trying to exaggerate their qualities or achievements.
+
+Emotionality: 3.5
+The person appears to be somewhat emotional, showing concern for others and being affected by social situations, but not overly so.
+
+Extraversion: 2.5
+The person tends to be reserved and quiet in social situations, especially when they don't know the people around them. However, they become more outgoing and confident when they are familiar with the people.
+
+Agreeableness: 4.0
+The person seems to be quite agreeable, showing empathy for others and a willingness to help and support their team members.
+
+Conscientiousness: 4.5
+The person appears to be very conscientious, taking responsibility for their actions, being detail-oriented, and motivated to complete challenging tasks.
+
+Openness to Experience: 3.0
+The person seems to have a moderate level of openness to experience, as they are willing to take on challenges and adapt to different situations, but they also tend to be cautious and measured in their approach.

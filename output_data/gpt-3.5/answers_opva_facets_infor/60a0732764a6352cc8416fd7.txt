@@ -1,0 +1,17 @@
+Liveliness: 2.5 - The person seems empathetic and caring, willing to lift others' spirits but may not be naturally energetic or enthusiastic.
+
+Social self-esteem: 3.0 - The person seems confident and comfortable in social situations, but does not derive their sense of self-worth solely from others' opinions.
+
+Perfectionism: 2.0 - The person values attention to detail and avoiding mistakes but does not seem overly focused on achieving perfection at the expense of all else.
+
+Sociability: 2.5 - The person is willing to attend social events but appears to be more selective about which events they attend.
+
+Social boldness: 2.0 - The person seems to be respectful of social hierarchy and leadership roles, but may not be inclined to take on a leading role themselves.
+
+Diligence: 3.5 - The person appears to be conscientious and hard-working, willing to push themselves to complete tasks to the best of their ability.
+
+Prudence: 3.0 - The person appears to be cautious and thoughtful, weighing the potential outcomes before acting impulsively.
+
+Organization: 2.5 - The person values keeping things tidy and organized but may not be excessively rigid or controlling in this regard. 
+
+Overall, the person appears to be relatively well-balanced across the HEXCO personality facets, with slightly higher scores in diligence and social self-esteem.

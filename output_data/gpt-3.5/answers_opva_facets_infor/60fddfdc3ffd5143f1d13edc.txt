@@ -1,0 +1,15 @@
+Liveliness: 3.5 - Based on the response to question 7, the individual appears to be a positive and uplifting presence for their team members.
+
+Social self-esteem: 2.5 - Based on the response to question 1, the individual appears to struggle with feeling comfortable in social situations where they do not know others.
+
+Perfectionism: 3.0 - Based on the response to question 6, the individual places importance on attention to detail and tries to avoid making mistakes.
+
+Sociability: 2.0 - Based on the response to question 5, the individual appears to struggle with being sociable in situations where they do not know others well. 
+
+Social boldness: 2.5 - Based on the response to question 3, the individual values being a good listener and asking questions to get to know others, but seems to be initially hesitant in group settings.
+
+Diligence: 4.0 - Based on the response to question 4, the individual takes their work responsibilities seriously and is committed to doing their best, even when the task is challenging.
+
+Prudence: 3.5 - Based on the response to question 8, the individual is trying to be more attentive to their behavior and emotions in order to achieve their goal of a promotion.
+
+Organization: 3.5 - Based on the response to question 2, the individual values organizational skills and tries to be respectful of their coworkers by keeping a clean and organized workspace.

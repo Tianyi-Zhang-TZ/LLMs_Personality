@@ -1,0 +1,15 @@
+Sociability: 3.0 - The individual seems to be more reserved in social situations where they do not know anyone, but may become more outgoing if they have a friend or mutual acquaintance in the group.
+
+Organization: 3.5 - The individual appears to value putting things back in their place and may become frustrated if they are unable to do so. However, they do not seem to be overly concerned with organization in other aspects of their life.
+
+Liveliness: 2.5 - The individual may become more focused and serious when a task requires attention to detail, but may also become more lively and energetic if a task is challenging in a fun way.
+
+Perfectionism: 3.0 - The individual seems to focus more when a task requires attention to detail, indicating a tendency towards perfectionism, but does not appear to be overly concerned with perfectionism in other aspects of their life.
+
+Social self-esteem: 2.5 - The individual seems to be more reserved in social situations where they do not know anyone, indicating lower social self-esteem.
+
+Prudence: 3.0 - The individual seems to be nervous and anxious when acting on an impulse at work, indicating a moderate level of prudence.
+
+Diligence: 2.5 - The individual may become more frustrated and angry when a task is challenging, indicating a lower level of diligence.
+
+Social boldness: 3.0 - The individual may become more outgoing and willing to lead in group discussions, indicating a moderate level of social boldness.

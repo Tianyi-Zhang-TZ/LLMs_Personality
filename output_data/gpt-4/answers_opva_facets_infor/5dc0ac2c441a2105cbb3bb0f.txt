@@ -1,0 +1,25 @@
+Sociability: 2.5
+The individual seems to be somewhat reserved and shy in social situations, but can be outgoing and enjoy social events once they feel comfortable.
+
+Diligence: 3.5
+The person appears to be willing to put in effort and take on challenges, such as learning to code and working on group projects.
+
+Social boldness: 2.0
+They tend to prefer a listening role in group discussions and see themselves as more of a "second in command" rather than a leader.
+
+Social self-esteem: 2.0
+The individual describes themselves as shy, awkward, and feeling out of their element in unfamiliar social situations.
+
+Perfectionism: 4.0
+The person seems to be detail-oriented and focused, particularly when it comes to tasks like coding and spotting typos.
+
+Liveliness: 2.5
+While not naturally lively or outgoing, the individual does try to raise the spirits of their team members and be helpful in difficult situations.
+
+Organization: 3.0
+The person admits to being somewhat disorganized in their personal life but makes an effort to be more organized and considerate in shared workspaces.
+
+Prudence: 4.0
+The individual demonstrates restraint and self-control, as evidenced by their decision not to act on an impulse to win a raffle prize they wanted.
+
+These ratings are based on the individual's responses to the questions, which provide insight into their personality traits according to the HEXACO model.

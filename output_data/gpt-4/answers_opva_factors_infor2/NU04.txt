@@ -1,0 +1,7 @@
+Conscientiousness: 2.5
+Extraversion: 2.8
+
+Explanations:
+For the Conscientiousness factor, the responses seemed somewhat mixed. There were instances where the respondent clearly demonstrated a strong attention to detail and a careful thought process, especially when it came to completing tasks or considering the repercussions of their actions. However, there were also times where the respondent could not or did not want to respond comprehensively, such as in Question 2 and in Question 8 where the answers were vague, therefore the rating does not fall on the higher end of the scale.
+
+For the Extraversion factor, the respondent also shows signs of being introverted and extraverted under different circumstances. There were multiple times where they mentioned feeling more comfortable and open in certain social settings, suggesting a level of extroversion. However, they also expressed a level of discomfort in unfamiliar social scenarios, showing a tendency towards introversion. So, the rating is not extremely high or low, yet slightly skewed towards introversion due to the reactions mentioned in uncommon social scenarios.

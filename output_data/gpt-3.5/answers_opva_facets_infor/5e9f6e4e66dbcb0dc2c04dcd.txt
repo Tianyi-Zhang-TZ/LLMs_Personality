@@ -1,0 +1,10 @@
+Liveliness: 2.0 
+Social self-esteem: 1.0 
+Perfectionism: 3.0 
+Sociability: 2.0 
+Social boldness: 2.5 
+Diligence: 4.0 
+Prudence: 4.0 
+Organization: 3.0
+
+Overall, the person appears to be diligent, prudent, and somewhat organized. They seem to have a moderately high degree of perfectionism, indicating a desire for accuracy and attention to detail. However, their social self-esteem appears to be relatively low, and they may feel uncomfortable in unfamiliar social settings. They have a moderate degree of sociability and social boldness, indicating that they are capable of taking a leadership or listening role in group situations. Finally, their liveliness score is relatively low, indicating that they may not be particularly outgoing or enthusiastic in social situations.

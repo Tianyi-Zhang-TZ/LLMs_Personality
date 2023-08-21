@@ -1,0 +1,10 @@
+Liveliness: 2 
+Social self-esteem: 2 
+Perfectionism: 1 
+Sociability: 2 
+Social boldness: 2 
+Diligence: 2 
+Prudence: 3 
+Organization: 3 
+
+Overall, this person seems to have average scores across most facets of the HEXACO personality model. They tend to be somewhat reserved in social situations, which is reflected in their low score in Social self-esteem. They are somewhat cautious and plan-ahead oriented, which is reflected in their scores in Prudence and Organization. They have relatively average scores in most other facets, including Sociability, Social boldness, Diligence, and Liveliness. However, they do seem to have a tendency towards lower scores in Perfectionism, indicating that they may be less concerned with details and/or avoiding mistakes in general.

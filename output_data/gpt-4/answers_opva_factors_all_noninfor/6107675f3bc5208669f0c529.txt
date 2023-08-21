@@ -1,0 +1,19 @@
+Honesty-Humility: 3.5
+The individual seems to be honest about their feelings and experiences but does not display extreme humility or arrogance.
+
+Emotionality: 3.0
+The person appears to have a balanced level of emotionality, showing empathy and concern for others but also admitting to being hard on themselves when making mistakes.
+
+Extraversion: 2.5
+The individual describes themselves as introverted in most situations but can be outgoing and sociable when necessary or with people they know well.
+
+Agreeableness: 3.5
+The person seems to be generally agreeable, displaying empathy and a willingness to help others, but also admitting to avoiding leadership roles when possible.
+
+Conscientiousness: 4.0
+The individual appears to be highly conscientious, paying attention to detail, being organized, and preferring to push through challenges on their own rather than asking for help.
+
+Openness to Experience: 3.0
+The person seems to have a moderate level of openness to experience, attending social events and adapting to different situations, but also admitting to being cautious and not impulsive in their actions.
+
+These ratings are based on the individual's answers to the questions, which provide insight into their personality traits and behaviors in various situations. The ratings reflect an overall assessment of their personality according to the HEXACO model.

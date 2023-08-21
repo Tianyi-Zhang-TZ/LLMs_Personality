@@ -1,0 +1,17 @@
+Liveliness: 3.0 - The individual seems to have some level of liveliness but it is not a dominant trait in their personality.
+
+Social self-esteem: 2.5 - The individual expresses some discomfort in social settings where they do not know people, indicating lower social self-esteem.
+
+Perfectionism: 3.5 - The individual demonstrates attention to detail and strives for accuracy on tasks, indicating a moderate level of perfectionism.
+
+Sociability: 2.5 - The individual expresses shyness and being reserved in social situations, indicating lower sociability.
+
+Social boldness: 3.0 - The individual shows some level of confidence in taking a leadership role during group discussions, indicating moderate social boldness.
+
+Diligence: 4.0 - The individual commits to completing tasks and demonstrates a strong work ethic in their approach, indicating a high level of diligence.
+
+Prudence: 4.0 - The individual prefers to exhaust all options before making a final decision, indicating a high level of prudence.
+
+Organization: 3.5 - The individual places a significant emphasis on organization when completing tasks, indicating a moderate level of organizational skills. 
+
+Overall, the individual demonstrates strong levels of diligence and prudence, while showing lower levels of social self-esteem and sociability. Moderate levels of perfectionism and social boldness are also present, while liveliness and organizational skills appear to be average.

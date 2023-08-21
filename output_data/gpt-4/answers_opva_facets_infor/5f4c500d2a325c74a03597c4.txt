@@ -1,0 +1,25 @@
+Sociability: 3.0
+The individual seems to have a balanced approach to social situations, sometimes joining events and sometimes skipping them based on their mood and availability.
+
+Diligence: 4.0
+The individual appears to be diligent, as they mention sticking to tasks until they are completed and working on tasks that require discipline and willpower.
+
+Social boldness: 3.5
+The person seems to have a moderate level of social boldness, as they were willing to take on additional responsibilities at work when a coworker was absent.
+
+Social self-esteem: 3.0
+The individual seems to have an average level of social self-esteem, as they mention feeling uneasy in unfamiliar social settings but eventually getting used to it with more experience.
+
+Perfectionism: 3.5
+The person appears to have a moderate level of perfectionism, as they mention paying attention to details in order to avoid making mistakes and trying to understand concepts to apply them in various situations.
+
+Liveliness: 4.0
+The individual seems to be quite lively, as they mention being understanding and trying to raise the spirits of their team members when they are feeling down.
+
+Organization: 3.0
+The person appears to have an average level of organization, as they mention putting equipment away at work and comparing it to doing the dishes at home.
+
+Prudence: 4.0
+The individual seems to be quite prudent, as they mention being responsible and mature enough not to act on impulse in order to get something they want badly at work.
+
+These ratings are based on the individual's answers to the questions, which provide insight into their personality traits according to the HEXACO model. The ratings reflect an overall assessment of their personality across the eight facets.

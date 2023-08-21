@@ -1,0 +1,23 @@
+Sociability: 2.0
+The individual seems to be introverted and prefers to avoid social events, which indicates a low sociability score.
+
+Diligence: 4.0
+The person tends to push themselves harder when faced with challenging tasks and seeks help when needed, showing a high level of diligence.
+
+Social boldness: 2.0
+The individual is shy and reserved in group discussions, preferring to listen rather than lead, which suggests a low social boldness score.
+
+Social self-esteem: 2.5
+The person feels uncomfortable in social settings with strangers but becomes more comfortable as they get to know others, indicating a moderate social self-esteem score.
+
+Perfectionism: 4.5
+The individual pays close attention to detail and enjoys tasks that require meticulousness, which demonstrates a high level of perfectionism.
+
+Liveliness: 3.5
+The person tries to raise the spirits of their team members when they are feeling down, showing a moderate to high level of liveliness.
+
+Organization: 4.0
+The individual is meticulous and organized when it comes to putting equipment back in place, indicating a high level of organization.
+
+Prudence: 4.0
+The person tends to think carefully before making decisions and avoids impulsive actions, which suggests a high level of prudence.

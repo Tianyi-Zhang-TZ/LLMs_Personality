@@ -1,0 +1,17 @@
+Honesty-Humility: 3.5
+The individual seems to be honest about their feelings and experiences but also considers what's in it for them in certain situations.
+
+Emotionality: 3.0
+The person seems to have a moderate level of emotionality, being aware of their own emotions and the emotions of others but not overly emotional.
+
+Extraversion: 4.0
+The individual appears to be quite extroverted, being talkative and social in new situations, and trying to engage with others.
+
+Agreeableness: 4.0
+The person seems to be agreeable, showing empathy and concern for others' feelings, and trying to raise their spirits when they are down.
+
+Conscientiousness: 3.5
+The individual appears to be conscientious, taking responsibility for their tasks and pushing themselves harder in challenging situations, but also admitting to making mistakes when under pressure.
+
+Openness to Experience: 3.5
+The person seems to be moderately open to new experiences, being willing to take on challenges and attend social events, but also considering the potential benefits and drawbacks before making a decision.

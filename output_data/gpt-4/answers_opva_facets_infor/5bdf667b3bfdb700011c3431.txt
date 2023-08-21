@@ -1,0 +1,23 @@
+Sociability: 2.5
+The individual seems to prefer a balance between attending social events and maintaining a work-life balance, sometimes choosing to skip events.
+
+Social boldness: 3.0
+The person is willing to take on a leading role in group discussions when they feel knowledgeable about the subject, but also comfortable taking a listening role when needed.
+
+Liveliness: 3.5
+The individual shows empathy towards coworkers who are feeling down and tries to raise their spirits when appropriate, depending on their relationship and understanding of the coworker's needs.
+
+Social self-esteem: 2.5
+The person feels uncomfortable in social settings where they don't know anyone and tends to avoid approaching others or being approached.
+
+Organization: 4.5
+The individual is respectful of shared work equipment and consistently puts things back in their proper place, demonstrating a strong sense of organization.
+
+Perfectionism: 4.0
+The person pays close attention to details when required and takes their job seriously, striving to avoid mistakes and maintain high-quality work.
+
+Prudence: 4.0
+The individual is not impulsive and prefers to express their interest in a project or opportunity while being respectful of others and considering the best course of action.
+
+Diligence: 4.5
+The person pushes themselves to complete challenging tasks, seeking help when needed, and avoids passing off their work to others, demonstrating a strong work ethic and commitment to their responsibilities.

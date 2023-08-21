@@ -1,0 +1,11 @@
+Honesty-Humility: 4.0 - The individual displays a level of honesty and humility, as evidenced by their willingness to ask for help and admit their lack of knowledge in certain situations.
+
+Emotionality: 3.0 - The individual appears to have a moderate level of emotional reactivity, as seen in their reactions to challenging tasks and social events.
+
+Extraversion: 2.0 - The individual has a tendency towards introversion and reserved behavior in social situations.
+
+Agreeableness: 4.0 - The individual displays a high level of agreeableness, as seen in their willingness to work with others, take on leadership roles, and raise team morale.
+
+Conscientiousness: 3.5 - The individual demonstrates a moderate level of conscientiousness, as seen in their willingness to push themselves and work hard on challenging tasks, but also their tendency to lose focus in detail-oriented situations.
+
+Openness to Experience: 3.0 - The individual exhibits a moderate level of openness to experiences, as evidenced by their willingness to try new things (such as a new programming language) and attend social events. However, they also display some resistance to change and a preference for routine (such as in their tendency towards introversion).

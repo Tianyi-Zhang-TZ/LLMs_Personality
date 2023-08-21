@@ -1,0 +1,23 @@
+Sociability: 3.0
+The individual attends social events occasionally but not all or most of them, indicating a moderate level of sociability.
+
+Diligence: 4.5
+The person pushed themselves extremely hard to complete a challenging task, staying up all night and day, showing a high level of diligence.
+
+Social boldness: 2.5
+The individual tends to be more of a listener and reserved in group discussions, indicating a moderate level of social boldness.
+
+Social self-esteem: 2.5
+The person felt nervous and anxious in a social setting where they didn't know anyone, suggesting a moderate level of social self-esteem.
+
+Perfectionism: 4.0
+As an engineer, the individual is detail-oriented and nitpicky, indicating a high level of perfectionism.
+
+Liveliness: 3.5
+The person is empathic and compassionate, making efforts to cheer up friends when they are feeling down, showing a moderate to high level of liveliness.
+
+Organization: 4.0
+The individual was able to clean up and organize their workspace after using equipment, indicating a high level of organization.
+
+Prudence: 4.5
+The person did not act on impulse even when they had the opportunity to do so, showing a high level of prudence.

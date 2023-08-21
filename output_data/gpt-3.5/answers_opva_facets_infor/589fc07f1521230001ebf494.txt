@@ -1,0 +1,17 @@
+Based on the responses to the questions asked, the personality score according to the HEXCO personality model by 8 facets are:
+
+Liveliness: 3.5 - The individual showed some signs of being lively and optimistic in certain situations, but not consistently throughout all responses.
+
+Social self-esteem: 2.5 - The individual demonstrated a lack of confidence and discomfort in social situations, indicating lower levels of social self-esteem.
+
+Perfectionism: 3.5 - The individual displayed a strong attention to detail and focus on perfection in certain tasks, but not all.
+
+Sociability: 2.5 - The individual expressed a preference for keeping professional relationships distant and not engaging in after-work social events, indicating lower levels of sociability.
+
+Social boldness: 3.0 - The individual was open to change and listening to others' opinions in group discussions, but did not display consistently high levels of social boldness.
+
+Diligence: 4.0 - The individual showed a strong determination and commitment to completing tasks, particularly when faced with challenges or deadlines.
+
+Prudence: 3.5 - The individual exhibited a balanced approach to decision-making, sometimes seeking input from others and occasionally acting on impulse, indicating moderate levels of prudence.
+
+Organization: 3.0 - The individual displayed some concern for organizational efficiency in certain situations, but did not consistently show high levels of organization throughout all responses.

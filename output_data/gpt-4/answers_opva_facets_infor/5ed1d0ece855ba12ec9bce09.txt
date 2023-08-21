@@ -1,0 +1,25 @@
+Sociability: 3.5
+The individual seems to enjoy being around people and gains energy from social interactions, but also has a quieter and more reserved side.
+
+Diligence: 4.5
+The person appears to be a hard worker, self-motivated, and driven to complete tasks, even when they are challenging.
+
+Social boldness: 3.0
+They are willing to take on leadership roles when necessary and voice their opinions, but tend to lean more towards listening and observing in group discussions.
+
+Social self-esteem: 3.0
+The individual seems to feel comfortable in some social situations, but can also feel nervous and uncomfortable when surrounded by strangers.
+
+Perfectionism: 4.0
+The person pays attention to details and double-checks their work to ensure quality and coherence, showing a strong focus on tasks at hand.
+
+Liveliness: 3.5
+They display empathy and sympathy towards others, wanting to raise people's spirits when they are feeling down, but may not always be the most energetic or outgoing person in the room.
+
+Organization: 4.0
+The individual strives to be competent and independent in their work, making sure to put things back in their place and complete tasks efficiently.
+
+Prudence: 3.5
+The person seems to prefer having a logical plan of action and thinking things through before acting, but may occasionally act on impulse if it does not conflict with their morals.
+
+These ratings are based on the individual's answers to the questions, which provide insight into their personality traits according to the HEXACO model. The ratings take into account the overall impression of the individual's personality, rather than focusing on specific answers to each question.

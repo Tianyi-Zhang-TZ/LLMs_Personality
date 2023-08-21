@@ -1,0 +1,15 @@
+Liveliness: 3.0 - The person didn't show a lot of liveliness in their responses to the questions.
+
+Social self-esteem: 4.5 - The person showed a high level of social self-esteem by being comfortable in a social setting where they didn't know anyone and enjoying meeting new people.
+
+Perfectionism: 3.5 - The person showed a moderate level of perfectionism in their work by paying attention to detail in order to avoid making mistakes.
+
+Sociability: 4.0 - The person showed a high level of sociability by enjoying socializing with co-workers and people they didn't know.
+
+Social boldness: 3.5 - The person showed a moderate level of social boldness by assuming a leading role in a group discussion, but also being cognizant of not monopolizing the conversation.
+
+Diligence: 4.0 - The person showed a high level of diligence by handling a difficult client by themselves and not asking for help.
+
+Prudence: 3.5 - The person showed a moderate level of prudence by acting on impulse to request a big client, but also generally being less impulsive.
+
+Organization: 4.0 - The person showed a high level of organization by valuing cleanliness in their personal life and being able to borrow equipment for work without causing any issues.

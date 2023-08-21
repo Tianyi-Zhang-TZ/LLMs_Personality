@@ -1,0 +1,17 @@
+Honesty-Humility: 4.0 
+The respondent demonstrates a strong sense of ethical behavior and selflessness in their responses.
+
+Emotionality: 3.5 
+The respondent demonstrates a moderate level of emotional expressiveness and empathy in their responses.
+
+Extraversion: 3.5 
+The respondent is somewhat outgoing and sociable, but may need time to warm up to new people or situations.
+
+Agreeableness: 4.0 
+The respondent shows a high level of agreeableness, being empathetic and a good listener, and willing to help others in need.
+
+Conscientiousness: 4.5 
+The respondent demonstrates a strong sense of reliability and attention to detail, and is able to work well in team settings.
+
+Openness to Experience: 3.5 
+The respondent shows a moderate level of openness to new experiences, showing an ability to learn quickly and adapt to new situations, while still being grounded in practicality and critical thinking.

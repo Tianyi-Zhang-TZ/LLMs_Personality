@@ -1,0 +1,25 @@
+Sociability: 2.5
+The individual seems to have a moderate level of sociability. They are willing to engage in social situations but may also prefer to avoid them when feeling tired or not in the mood.
+
+Diligence: 3.0
+The individual shows a moderate level of diligence. They are willing to work hard but may sometimes avoid challenging tasks when feeling overwhelmed or tired.
+
+Social boldness: 2.5
+The individual seems to have a moderate level of social boldness. They are willing to engage in group discussions but may sometimes prefer to take a listening role instead of leading.
+
+Social self-esteem: 3.0
+The individual seems to have a moderate level of social self-esteem. They are able to engage in social situations but may sometimes feel nervous or uncomfortable when in unfamiliar settings.
+
+Perfectionism: 4.0
+The individual shows a high level of perfectionism. They are attentive to details and make efforts to ensure tasks are completed accurately and without mistakes.
+
+Liveliness: 3.5
+The individual has a moderate to high level of liveliness. They are willing to help raise the spirits of their team members and provide support when needed.
+
+Organization: 2.0
+The individual has a low level of organization. They may sometimes neglect to organize things properly, as seen in the example of not putting equipment back in place at work.
+
+Prudence: 2.5
+The individual has a moderate level of prudence. They are willing to act on impulse when they want something badly but may also consider the consequences of their actions.
+
+These ratings are based on the individual's responses to the questions, which provide insight into their personality traits according to the HEXACO model. The individual seems to have a moderate level of sociability, diligence, social boldness, social self-esteem, and prudence, with a higher level of perfectionism and liveliness, and a lower level of organization.

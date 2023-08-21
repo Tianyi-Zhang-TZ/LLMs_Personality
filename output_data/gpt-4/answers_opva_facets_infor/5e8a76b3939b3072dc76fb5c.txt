@@ -1,0 +1,25 @@
+Sociability: 2.5
+The individual seems to be more introverted but is willing to participate in social events to get along with coworkers.
+
+Diligence: 3.5
+The person tends to push themselves harder when faced with challenging tasks but may leave it aside if it becomes too troublesome.
+
+Social boldness: 2.5
+The individual prefers a listening role in group discussions and avoids taking the lead but is willing to express their opinions.
+
+Social self-esteem: 3.0
+The person feels somewhat uncomfortable in unfamiliar social settings but is able to adapt and get along with others.
+
+Perfectionism: 3.0
+The individual is concerned about making mistakes and seeks help from others to avoid errors, but still makes some mistakes.
+
+Liveliness: 2.5
+The person tries to talk to team members when they are feeling down but does not push too far, respecting their boundaries.
+
+Organization: 3.5
+The individual is able to remember where things go and clean up after using equipment, asking for help when needed.
+
+Prudence: 3.0
+The person acts on impulse when there is a reward involved but is not overly concerned about whether they get it or not.
+
+These ratings are based on the individual's responses to the questions, which show a mix of introverted and extroverted tendencies, a moderate level of diligence and organization, and a balance between impulsivity and prudence.

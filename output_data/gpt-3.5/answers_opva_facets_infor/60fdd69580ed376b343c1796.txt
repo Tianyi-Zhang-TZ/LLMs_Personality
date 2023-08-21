@@ -1,0 +1,15 @@
+Liveliness: 3.5 - The response indicates a moderate level of liveliness, with a willingness to try to lift others' spirits in certain situations.
+
+Social self-esteem: 3.0 - The response suggests an average level of social self-esteem, with some discomfort in new social situations but an overall ability to be friendly and interact with others.
+
+Perfectionism: 2.5 - The response suggests a moderate level of perfectionism, with a focus on avoiding mistakes and doing the best work possible, but also an unease with the idea of perfection.
+
+Sociability: 3.0 - The response suggests an average level of sociability, with some social anxiety but a willingness to attend social events and a belief that such events can be positive experiences.
+
+Social boldness: 2.0 - The response suggests a somewhat lower level of social boldness, with a tendency to listen rather than lead in group discussions and discomfort in new social situations.
+
+Diligence: 4.0 - The response suggests a high level of diligence, with a focus on completing tasks and solving problems even when they are challenging or frustrating.
+
+Prudence: 3.5 - The response suggests a moderate level of prudence, with a focus on strategizing and planning rather than acting impulsively to achieve goals.
+
+Organization: 3.5 - The response suggests an average level of organization, with a focus on putting equipment back in its place at work but also frustration when things are not arranged as they should be.

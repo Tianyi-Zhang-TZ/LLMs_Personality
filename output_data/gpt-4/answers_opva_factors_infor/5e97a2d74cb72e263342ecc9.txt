@@ -1,0 +1,6 @@
+Extraversion: 2.5
+Conscientiousness: 3.5 
+
+The individual seems to exhibit moderate levels of Extraversion, as they tend to be introverted and uncomfortable in social settings with strangers (Question 1) and generally prefer to skip after-work social events (Question 5). However, they also show a willingness to try and raise team members' spirits (Question 7), indicating some level of sociability.
+
+In terms of Conscientiousness, the individual displays a stronger tendency towards this trait, as evidenced by their focus on putting equipment back in place at work (Question 2), paying attention to details in tasks (Question 6), and actively taking steps to resolve issues in a Discord channel they managed (Question 8). However, there are also instances where they struggle with challenging tasks (Question 4) and may need more support.

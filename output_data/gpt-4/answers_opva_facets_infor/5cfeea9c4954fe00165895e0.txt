@@ -1,0 +1,25 @@
+Sociability: 2.5
+The individual tends to decline social events and feels awkward in social situations, but they are trying to improve their sociability.
+
+Diligence: 3.5
+The individual is willing to learn and put effort into understanding new areas, but they also know when to ask for help from others.
+
+Social boldness: 3.0
+The person is comfortable taking a listening role in group discussions and is interested in learning from others, but they may not be as comfortable taking a leading role.
+
+Social self-esteem: 2.5
+The individual feels shy and introverted in unfamiliar social situations, which can make them uncomfortable.
+
+Perfectionism: 4.0
+The person pays close attention to details in their work to avoid making mistakes and takes pride in not introducing new bugs or issues.
+
+Liveliness: 3.0
+The individual tries to maintain a positive attitude in uncertain situations and focuses on the tasks at hand, but they may not actively try to raise the spirits of their team members.
+
+Organization: 4.0
+The person takes the initiative to put things back in place after using equipment and feels proud of their organizational skills.
+
+Prudence: 4.0
+The individual is willing to act on their desires at work, but they take a measured approach by gathering support and planning before implementing their ideas.
+
+These ratings are based on the individual's answers to the questions, which provide insight into their personality traits according to the HEXACO model. The ratings take into account the overall tendencies and behaviors described by the individual across different situations.

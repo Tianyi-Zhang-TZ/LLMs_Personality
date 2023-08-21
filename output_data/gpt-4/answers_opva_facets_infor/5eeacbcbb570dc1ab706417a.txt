@@ -1,0 +1,25 @@
+Sociability: 3.5
+The individual seems to make an effort to attend social events and interact with others, but may not be the most outgoing person in the room.
+
+Diligence: 4.0
+The person appears to be hardworking and dedicated to completing tasks, especially when they find them challenging or when they feel responsible for the outcome.
+
+Social boldness: 3.0
+While the individual may not always take the lead in group discussions, they are willing to step up and take a leadership role when necessary or when they feel confident in their knowledge.
+
+Social self-esteem: 2.5
+The person seems to feel awkward and uncomfortable in unfamiliar social situations, but they are still willing to approach others and initiate conversations.
+
+Perfectionism: 4.0
+The individual is detail-oriented and strives to avoid making mistakes, even if it means putting in extra effort or time.
+
+Liveliness: 3.5
+The person appears to be empathetic and tries to lift the spirits of those around them when they are feeling down, both in personal and professional settings.
+
+Organization: 4.0
+The individual seems to be organized and responsible, especially when working with dangerous materials or in a lab setting.
+
+Prudence: 4.0
+The person appears to be cautious and thoughtful in their actions, preferring to plan and consider the consequences rather than acting impulsively.
+
+These ratings are based on the individual's responses to the questions, which provide insight into their personality traits according to the HEXACO model. The ratings take into account the overall impression of the individual's behavior and attitudes across different situations.

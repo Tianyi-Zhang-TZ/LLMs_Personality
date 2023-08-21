@@ -1,0 +1,15 @@
+Liveliness: 3.5 - The response provided only one example of being lively, and it was related to responding to other people's moods.
+
+Social self-esteem: 4 - The response indicated that the person is sociable and comfortable in new social situations.
+
+Perfectionism: 4.5 - The response showed that the person pays close attention to detail in order to avoid mistakes.
+
+Sociability: 4 - The response indicated that the person enjoys socializing in the workplace and tries to get to know coworkers.
+
+Social boldness: 3 - The response indicated that the person tends to take more of a listening role in group discussions, rather than being a leader.
+
+Diligence: 4.5 - The response showed that the person is hardworking and determined, putting in extra effort to make sure that they get things done right.
+
+Prudence: 4 - The response indicated that the person tends to follow instructions carefully and is very conscientious and careful in their work.
+
+Organization: 4.5 - The response indicated that the person is very organized and likes to make sure things are in their proper place.

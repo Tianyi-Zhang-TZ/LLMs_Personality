@@ -1,0 +1,25 @@
+Sociability: 2.5
+The individual seems to have a mixed approach to social situations, sometimes enjoying getting to know new people but often preferring to skip social events.
+
+Diligence: 3.5
+The person appears to prioritize important tasks and focus on them, but may leave less important tasks aside.
+
+Social boldness: 3.0
+The individual is willing to take a leading role and speak up when they have knowledge on a subject, but generally prefers to listen in group discussions.
+
+Social self-esteem: 2.0
+The person seems to feel uncomfortable in social situations where they don't know anyone and may struggle with initiating conversations.
+
+Perfectionism: 4.0
+The individual is meticulous and pays attention to detail, ensuring that they and their team members avoid making mistakes.
+
+Liveliness: 3.5
+The person enjoys seeing others happy and will make an effort to raise the spirits of their team members when they are feeling down.
+
+Organization: 4.0
+The individual is a perfectionist when it comes to organizing their workspace and completing tasks, making sure everything is in its proper place.
+
+Prudence: 4.0
+The person appears to be cautious and thoughtful when pursuing their goals, preferring to plan and strategize rather than acting impulsively.
+
+These ratings are based on the individual's answers to the questions, which provide insight into their personality traits according to the HEXACO model. The ratings reflect an overall assessment of their personality, taking into account the nuances and variations in their responses.

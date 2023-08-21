@@ -1,0 +1,8 @@
+Extraversion: rating 2.5
+Conscientiousness: rating 4.0
+
+Extraversion: The individual describes themselves as an introvert and generally feels uncomfortable in social settings where they don't know anyone. They struggle with initiating conversations and approaching strangers. They prefer listening over leading in group discussions and tend to avoid after-work social events. These behaviors and preferences suggest a lower level of extraversion.
+
+Conscientiousness: The individual emphasizes the importance of attention to detail in tasks and expresses the desire to avoid making mistakes. They also express the need for organization and maintaining equipment in their workplace. They show a willingness to push themselves harder to overcome challenging tasks and demonstrate a proactive approach to seeking help or breaking down tasks into smaller, manageable parts. These behaviors and traits indicate a higher level of conscientiousness.
+
+Overall, the individual's self-reported experiences and behaviors align more closely with a moderate level of extraversion (rating 2.5) and a higher level of conscientiousness (rating 4.0).

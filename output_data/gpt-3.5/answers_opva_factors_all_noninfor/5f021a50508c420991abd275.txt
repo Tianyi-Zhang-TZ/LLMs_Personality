@@ -1,0 +1,13 @@
+Honesty-Humility: 4.0 - The person values being meticulous, accountable, and following professional criteria, indicating a higher level of honesty-humility.
+
+Emotionality: 2.5 - The person tends to be reserved in social settings and in expressing emotions, indicating a lower level of emotionality.
+
+Extraversion: 2.5 - The person prefers one-on-one interactions and small groups, and has difficulty putting their best foot forward in large group settings, indicating a lower level of extraversion.
+
+Agreeableness: 3.5 - The person tries to participate in work celebrations and raise team members' spirits, indicating a moderate level of agreeableness.
+
+Conscientiousness: 4.0 - The person takes pride in being meticulous and pays attention to detail to avoid mistakes, indicating a higher level of conscientiousness.
+
+Openness to Experience: 3.0 - The person tends to prefer following a rigid structure in group projects, indicating a lower level of openness to experience.
+
+Overall, the person's personality score is 3.33, indicating a moderate level of personality traits across the HEXCO model. The person values honesty-humility and conscientiousness, but tends to be reserved and prefers smaller groups, indicating a lower level of extraversion and openness to experience.

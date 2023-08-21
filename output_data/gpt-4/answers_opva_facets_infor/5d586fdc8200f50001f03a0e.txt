@@ -1,0 +1,23 @@
+Sociability: 2.0
+The individual mentioned that they are not a social person and prefer to stay away from social events, indicating a low level of sociability.
+
+Diligence: 4.0
+The individual likes challenges and pushing themselves harder, which shows a high level of diligence.
+
+Social boldness: 4.0
+The individual took on a leadership role in a group project and guided their team members, indicating a high level of social boldness.
+
+Social self-esteem: 2.5
+The individual felt uncomfortable in a new social setting, suggesting a lower level of social self-esteem.
+
+Perfectionism: 3.0
+The individual acknowledges the importance of paying attention to details but also believes that too much focus can lead to issues, indicating a moderate level of perfectionism.
+
+Liveliness: 3.5
+The individual tried to raise the spirits of their team members when they were feeling down, showing a moderate to high level of liveliness.
+
+Organization: 3.0
+The individual mentioned that they could not resist the disorganization of tools in a workplace, but it is unclear how they would handle organization themselves, indicating a moderate level of organization.
+
+Prudence: 4.0
+The individual values people over things and tries to solve problems with minimal losses, suggesting a high level of prudence.

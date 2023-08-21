@@ -1,0 +1,23 @@
+Liveliness: 3.5
+The answers portray a moderate level of liveliness, given the tendency to make jokes to cheer up others, but not acting impulsively.
+
+Social self-esteem: 3.0
+The answer indicates moderate to low social self-esteem, given the discomfort in social situations and the need to form alliances to feel more comfortable.
+
+Perfectionism: 4.0
+The answer suggests a high level of perfectionism, with the tendency to pay attention to details, double-check things, and complete tasks without making mistakes.
+
+Sociability: 2.5
+The answer suggests moderate sociability, given the reluctance to attend after-work social events and the need for work-life balance.
+
+Social boldness: 3.5
+The answer suggests moderate social boldness, with the tendency to assume a leading role in group discussions, but to ensure everyone's opinion is heard.
+
+Diligence: 4.0
+The answer indicates a high level of diligence, with the tendency to finish what is started, and to focus attention to accomplish difficult tasks.
+
+Prudence: 4.0
+The answer suggests high prudence, with the tendency to plan all steps of actions, avoid impulsive actions, and ensure appropriateness in the situation.
+
+Organization: 4.0
+The answer indicates a high level of organization, with the tendency to prefer a well-maintained and predictable work environment, and to put back things where they belong after completing a task.

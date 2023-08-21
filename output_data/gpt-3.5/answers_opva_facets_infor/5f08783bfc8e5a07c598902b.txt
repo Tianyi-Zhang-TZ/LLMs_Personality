@@ -1,0 +1,19 @@
+Based on the answers provided, the personality scores for the HEXCO model are as follows:
+
+Liveliness: 4.0 - The respondent describes themselves as a positive, passionate, and emotional person who tries to raise others' spirits.
+
+Social self-esteem: 2.0 - The respondent indicates feeling uncomfortable and defensive in a social situation where they don't know anyone.
+
+Perfectionism: 3.5 - The respondent pays attention to detail and generally tries to avoid mistakes, though the severity of the consequences will affect their level of diligence.
+
+Sociability: 2.5 - The respondent is hesitant to engage in after-work social events, indicating they may not be highly sociable.
+
+Social boldness: 2.5 - The respondent describes themselves as a quiet person who prioritizes listening and caring for their customers.
+
+Diligence: 3.5 - The respondent pushes themselves harder when faced with a difficult task, indicating a strong work ethic and focus on achieving goals.
+
+Prudence: 3.0 - The respondent tends to assess risks and rewards before acting on impulses, indicating a thoughtful and cautious approach.
+
+Organization: 3.5 - The respondent values completing tasks and ensuring things are in place, indicating an organized mindset.
+
+Overall, the respondent seems to be a diligent and organized individual who is cautious and tends to assess risks before acting impulsively. They may struggle with social confidence and may not be highly sociable, but they are passionate and strive for perfection in their work.

@@ -1,0 +1,25 @@
+Sociability: 4.0
+The individual seems to enjoy social events and connecting with people, but sometimes feels lazy or hesitant to attend.
+
+Diligence: 3.5
+The individual is generally hardworking and takes on challenges, but sometimes struggles with fear of failure and may avoid certain tasks.
+
+Social boldness: 4.0
+The individual enjoys leading discussions and is confident in their knowledge, but also appreciates listening to others' perspectives.
+
+Social self-esteem: 3.5
+The individual is generally outgoing and extroverted, but can become nervous and uncomfortable in unfamiliar social situations.
+
+Perfectionism: 3.0
+The individual is meticulous and attentive to detail when interested in a task, but may struggle to maintain focus and make mistakes when not engaged.
+
+Liveliness: 4.5
+The individual is caring, lovable, and enjoys raising the spirits of others, often using humor to cheer people up.
+
+Organization: 3.0
+The individual understands the importance of organization but struggles with putting things back in their place due to their hyperactive nature.
+
+Prudence: 2.5
+The individual is generally impulsive but has shown some growth in controlling their impulses and making more thoughtful decisions.
+
+These ratings are based on the individual's responses to the questions, which demonstrate their strengths and weaknesses in each facet of the HEXACO personality model.

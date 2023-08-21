@@ -1,0 +1,15 @@
+Liveliness: 3.5 - The individual seems to have a moderate level of energy and enthusiasm when interacting with others, but not necessarily to an excessive level.
+
+Social self-esteem: 2.5 - The individual seems to have lower levels of confidence in social situations, frequently experiencing discomfort and uncertainty.
+
+Perfectionism: 3.5 - The individual places a high value on attention to detail and organization, suggesting a moderate level of perfectionism.
+
+Sociability: 3.0 - The individual values social connections and recognizes the importance of socializing with coworkers, but does not appear to be excessively outgoing or extroverted.
+
+Social boldness: 2.5 - The individual is not particularly adventurous or daring in social situations, but is willing to take on leadership roles once they have gained an understanding of others' leadership styles.
+
+Diligence: 4.0 - The individual is highly self-motivated and driven to accomplish tasks, and is willing to seek help if necessary but ultimately prefers to take responsibility for the outcome of their work.
+
+Prudence: 3.5 - The individual takes a highly rational and logical approach to decision-making, considering all available options and weighing the costs and benefits of different courses of action.
+
+Organization: 4.0 - The individual places a high value on order and structure, frequently striving to leave things better than they found them and valuing others' organizational systems.

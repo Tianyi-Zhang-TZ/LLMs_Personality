@@ -1,0 +1,25 @@
+Sociability: 4.0
+The individual seems to enjoy social events and being around people, indicating a higher level of sociability.
+
+Diligence: 4.0
+The person appears to be driven and motivated in challenging situations, suggesting a strong work ethic and diligence.
+
+Social boldness: 3.5
+The individual tends to be talkative and assumes a leadership role in group discussions, indicating a moderate level of social boldness.
+
+Social self-esteem: 3.0
+The person experiences anxiety and discomfort in unfamiliar social settings but still manages to engage with others, suggesting a moderate level of social self-esteem.
+
+Perfectionism: 4.0
+The individual is attentive to detail and focused on tasks that require precision, indicating a higher level of perfectionism.
+
+Liveliness: 4.0
+The person tends to be happy, high-spirited, and empathetic, suggesting a higher level of liveliness.
+
+Organization: 4.0
+The individual values organization and efficiency, indicating a higher level of organization.
+
+Prudence: 3.0
+The person experiences anxiety and impulsiveness in situations where they want something badly, suggesting a moderate level of prudence.
+
+These ratings are based on the individual's responses to the questions, which provide insight into their personality traits according to the HEXACO model.

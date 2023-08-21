@@ -1,0 +1,15 @@
+Liveliness: 2.5 - Based on the responses, the individual may not be highly expressive or energetic in their behavior.
+
+Social self-esteem: 2.0 - The individual expressed discomfort and anxiety in social situations, which suggests that they may struggle with self-confidence in those contexts.
+
+Perfectionism: 3.5 - The individual expressed a desire to avoid mistakes and pay close attention to details, indicating a tendency towards perfectionism.
+
+Sociability: 2.0 - The individual expressed a preference for solitary activities and discomfort in social situations, indicating a lower level of sociability.
+
+Social boldness: 2.5 - The individual tends to assume a listening role in group discussions and may struggle with being assertive or taking initiative in social situations.
+
+Diligence: 2.0 - The individual expressed difficulty in pushing themselves to complete challenging tasks and a tendency to give up rather than continue working on them.
+
+Prudence: 3.5 - The individual expressed a preference for taking time to make careful decisions and avoiding impulsive actions.
+
+Organization: 3.0 - The individual expressed a desire to do their best to put things away correctly, but may struggle with asking for help and may not always complete the task successfully.

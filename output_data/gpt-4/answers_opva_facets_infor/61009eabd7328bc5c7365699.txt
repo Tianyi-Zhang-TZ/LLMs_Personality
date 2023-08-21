@@ -1,0 +1,19 @@
+Social boldness: 2.5
+Perfectionism: 3.5
+Prudence: 3.0
+Diligence: 4.0
+Liveliness: 3.0
+Organization: 4.0
+Social self-esteem: 3.0
+Sociability: 2.5
+
+The ratings are based on the following observations from the answers provided:
+
+- Social boldness: The person tends to assume a listening role in group discussions and doesn't always voice their preferences, suggesting a lower level of social boldness.
+- Perfectionism: The person pays attention to details and tries to avoid making mistakes, indicating a moderate level of perfectionism.
+- Prudence: The person doesn't always act on impulse to get what they want, suggesting a moderate level of prudence.
+- Diligence: The person pushes themselves harder when faced with challenging tasks, indicating a higher level of diligence.
+- Liveliness: The person sympathizes with team members who are feeling down and tries to comfort them, suggesting a moderate level of liveliness.
+- Organization: The person asks questions about where things go and doesn't leave things out, indicating a higher level of organization.
+- Social self-esteem: The person feels anxious and nervous in new social settings but tries to engage with others, suggesting a moderate level of social self-esteem.
+- Sociability: The person's decision to join or skip social events depends on their familiarity with the attendees, suggesting a lower level of sociability.

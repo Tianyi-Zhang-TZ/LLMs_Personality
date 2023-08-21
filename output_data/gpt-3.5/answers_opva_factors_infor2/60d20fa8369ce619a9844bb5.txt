@@ -1,0 +1,6 @@
+Extraversion: 3.5
+Conscientiousness: 3.0
+
+The rating for Extraversion is 3.5 because the individual is willing to engage in social situations, make small talk, and participate in group discussions. However, there are also instances where they feel uncomfortable and decide not to attend social events or take on a listening role instead. This indicates a moderate level of extraversion.
+
+The rating for Conscientiousness is 3.0 because the individual shows some conscientious behavior in certain situations. They organize equipment at work and pay attention to details in order to avoid mistakes. However, there are also instances where they decide not to push themselves harder or leave tasks unfinished, indicating a lower level of conscientiousness.

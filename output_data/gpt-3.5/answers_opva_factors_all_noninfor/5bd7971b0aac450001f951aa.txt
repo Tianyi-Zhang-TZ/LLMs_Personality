@@ -1,0 +1,13 @@
+Overall ratings for the HEXACO personality model:
+
+Honesty-Humility: 3.5 - The individual seems to be honest and humble in their responses, but not exceptionally so.
+
+Emotionality: 3.0 - The individual seems to experience a moderate level of emotion, but may struggle in some social situations.
+
+Extraversion: 2.0 - The individual describes themselves as shy, introverted, and preferring to be alone rather than in groups.
+
+Agreeableness: 4.0 - The individual comes across as empathetic, compassionate, and willing to help lift the spirits of team members who are feeling down.
+
+Conscientiousness: 4.5 - The individual appears to be highly focused, determined, and diligent when it comes to tasks that require attention to detail.
+
+Openness to Experience: 3.0 - The individual seems moderately open to new experiences, but may prefer to stick to routines when it comes to work and social situations.

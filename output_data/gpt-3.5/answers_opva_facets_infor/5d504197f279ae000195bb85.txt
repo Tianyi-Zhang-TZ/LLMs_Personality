@@ -1,0 +1,10 @@
+Liveliness: 2.5
+Social self-esteem: 2.0 
+Perfectionism: 3.5 
+Sociability: 2.5 
+Social boldness: 2.0 
+Diligence: 3.0 
+Prudence: 3.5 
+Organization: 4.0 
+
+The person seems to be relatively introverted, as their scores for social self-esteem and social boldness are lower than average. They also seem to be quite conscientious, with above average scores for perfectionism, diligence, prudence, and organization. Their liveliness score is average, as they seem to be neither particularly high or low in energy or enthusiasm. Their sociability score is also average, indicating they are not particularly extroverted or introverted, but somewhere in the middle.

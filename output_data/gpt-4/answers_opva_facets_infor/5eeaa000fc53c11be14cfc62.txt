@@ -1,0 +1,25 @@
+Sociability: 2.5
+The individual tends to be introverted and prefers spending time alone but does enjoy the company of others in certain situations.
+
+Diligence: 4.5
+The person is a hard worker, does not shy away from challenges, and is willing to reach out for help when needed.
+
+Social boldness: 3.5
+The individual can take on both listening and leading roles in group discussions, depending on the situation and group members.
+
+Social self-esteem: 3.0
+The person starts as shy and quiet in unfamiliar social settings but becomes more comfortable and opens up as they get to know others.
+
+Perfectionism: 4.0
+The individual is detail-oriented and does not like making mistakes, often double-checking their work to avoid errors.
+
+Liveliness: 3.5
+The person is attentive and compassionate, willing to raise the spirits of team members when they are feeling down.
+
+Organization: 4.5
+The individual is very organized, takes responsibility for cleaning up after using equipment, and values a group effort in maintaining a tidy workspace.
+
+Prudence: 4.0
+The person is practical and considers the pros and cons before making decisions, avoiding impulsive actions.
+
+These ratings are based on the individual's answers to the questions, which demonstrate their tendencies and preferences in various situations. The ratings reflect their overall personality traits according to the HEXACO model.

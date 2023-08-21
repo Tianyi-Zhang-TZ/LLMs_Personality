@@ -1,0 +1,10 @@
+Liveliness: 2.0
+Social self-esteem: 1.5
+Perfectionism: 3.5
+Sociability: 1.0
+Social boldness: 2.0
+Diligence: 4.0
+Prudence: 4.5
+Organization: 4.0 
+
+Overall, the individual appears to be introverted and cautious in social situations (low scores in liveliness, social self-esteem, and sociability). They also appear to be detail-oriented and conscientious (high scores in perfectionism, diligence, prudence, and organization). However, they may struggle with asserting themselves in social situations (moderate score in social boldness).

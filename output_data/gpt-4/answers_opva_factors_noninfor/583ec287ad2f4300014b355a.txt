@@ -1,0 +1,6 @@
+Conscientiousness: 3.5
+Extraversion: 2.0
+
+The individual demonstrates a moderate level of conscientiousness as they show responsibility and attention to detail in certain situations, such as the mail merge task and leading the data center project. However, they also exhibit instances where they pass on tasks or do not take responsibility for others' emotions, which lowers their conscientiousness score.
+
+The individual scores low on extraversion as they consistently describe themselves as introverted, quiet, and not enjoying social situations. They avoid social events and do not actively engage in raising team morale. Their preference for solitude and discomfort in social settings contribute to their low extraversion score.

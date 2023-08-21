@@ -1,0 +1,15 @@
+Liveliness: 2.5 - The response does not reveal a particularly high level of extroversion or enthusiasm in social situations.
+
+Social self-esteem: 3.5 - The response indicates some discomfort in social situations when not familiar with others, but it does not seem to greatly affect self-esteem overall.
+
+Perfectionism: 3.5 - The response suggests a willingness to pay attention to detail and ensure tasks are completed correctly, but not at an excessive level.
+
+Sociability: 2.5 - The response does not indicate a strong desire for social interaction or preference for social events.
+
+Social boldness: 3.0 - The response indicates some level of assertiveness in group discussions and willingness to take on a leadership role when necessary.
+
+Diligence: 4.0 - The response reveals strong persistence and determination to complete a challenging task despite difficulties.
+
+Prudence: 3.0 - The response suggests a careful consideration of risks and benefits when deciding whether to act on an impulse or not.
+
+Organization: 3.5 - The response indicates a willingness to follow established procedures and ensure equipment is returned to its proper place.

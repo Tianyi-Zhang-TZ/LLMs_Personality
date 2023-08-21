@@ -1,0 +1,25 @@
+Liveliness: 2.0
+The responses to question 7 are somewhat confusing and do not provide a clear indication of the person's liveliness, but there are some indications that the person may have a lower level of liveliness.
+
+Social self-esteem: 1.0
+The response to question 1 does not provide any indication of self-esteem and suggests some discomfort in social situations.
+
+Perfectionism: 1.5
+The response to question 6 suggests some focus on details and perhaps a desire for perfection, but overall there is not a strong indication of high levels of perfectionism.
+
+Sociability: 2.0
+The response to question 5 suggests some interest in social events and interactions, but the confusion in the response indicates some discomfort or lack of confidence in these situations.
+
+Social boldness: 2.5
+The response to question 3 suggests some willingness to take on a leading role in social situations and suggests some level of social boldness.
+
+Diligence: 2.5
+The response to question 4 suggests a willingness to push oneself to complete tasks, but there are some indications of difficulty and reluctance in doing so.
+
+Prudence: 2.0
+The response to question 8 suggests some consideration of consequences before acting, but the overall response is somewhat confusing and does not strongly indicate a high level of prudence.
+
+Organization: 1.0
+The response to question 2 does not provide any clear indication of organizational skills or tendencies. 
+
+Overall, the responses suggest a personality with some social discomfort, but with some willingness to take on social roles and challenges. There are also indications of some perfectionistic tendencies, but overall there is not a strong indication of high levels of any of the HEXCO facets.

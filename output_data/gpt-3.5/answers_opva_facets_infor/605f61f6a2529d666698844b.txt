@@ -1,0 +1,10 @@
+Liveliness: 3.0
+Social self-esteem: 2.0
+Perfectionism: 4.0
+Sociability: 1.5
+Social boldness: 2.0
+Diligence: 4.0
+Prudence: 3.5
+Organization: 3.5
+
+The individual seems to be less comfortable and confident in social settings, indicating a lower rating in social self-esteem. However, they are conscientious and detail-oriented, indicating a higher rating in perfectionism and diligence. They also prioritize getting the job done right the first time, showing a high rating in prudence. The individual is not particularly sociable or bold in social situations, indicating a lower rating in sociability and social boldness. They also prioritize keeping things organized and ready for the next person, indicating a higher rating in organization. Finally, they show some level of liveliness and willingness to try to raise the spirits of others, indicating a moderate rating in liveliness.

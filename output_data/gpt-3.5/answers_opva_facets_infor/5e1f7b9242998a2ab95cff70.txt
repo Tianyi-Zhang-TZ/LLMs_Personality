@@ -1,0 +1,10 @@
+Liveliness: 2.5 
+Social self-esteem: 2.0 
+Perfectionism: 3.0 
+Sociability: 2.5 
+Social boldness: 2.0 
+Diligence: 3.5 
+Prudence: 3.0 
+Organization: 3.0 
+
+Overall, the individual seems to be generally reserved and introverted in social settings (low Social self-esteem and Social boldness), but is willing to push through discomfort when necessary (moderate Liveliness). They are detail-oriented and diligent in their work (high Diligence and Perfectionism), but do not take unnecessary risks (moderate Prudence). They prefer a supporting role in teamwork (low Sociability), but are still able to contribute positively (moderate Liveliness). They also have a generally organized approach to tasks (moderate Organization).

@@ -1,0 +1,15 @@
+Liveliness: 3.0 - The individual seems to be generally sympathetic and willing to comfort others, but does not appear to be extremely lively or energetic in their approach.
+
+Social self-esteem: 4.0 - The individual seems comfortable in social situations with unfamiliar people and pursues social interaction in those situations.
+
+Perfectionism: 3.5 - The individual pays attention to detail and is determined to avoid mistakes, but is not overly perfectionistic in their approach to tasks.
+
+Sociability: 4.0 - The individual enjoys social interaction and takes the initiative to attend social events with coworkers.
+
+Social boldness: 3.5 - The individual is attentive to the dynamics of group discussions and willing to contribute when they have something to add, but also considerate of others' thoughts and opinions.
+
+Diligence: 4.0 - The individual is hard-working and focused when faced with challenging tasks, and acts independently to find solutions.
+
+Prudence: 3.5 - The individual has a plan in place to work towards their goals and does not act impulsively to obtain them.
+
+Organization: 4.0 - The individual is well-organized and attentive to order in their workspace, as well as tasks that require preparation and cleanup.

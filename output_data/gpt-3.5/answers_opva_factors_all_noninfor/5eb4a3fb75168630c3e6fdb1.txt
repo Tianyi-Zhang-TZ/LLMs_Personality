@@ -1,0 +1,6 @@
+Honesty-Humility: 4.0 - The person shows a strong sense of integrity and ethical principles, prioritizing consideration for others over self-interest.
+Emotionality: 2.5 - The person seems to have difficulty in expressing emotions and connecting with others on a personal level, indicating a lower level of emotional openness.
+Extraversion: 2.5 - The person appears to be more reserved in social situations and not naturally inclined towards initiating conversations or participating in group activities, indicating lower levels of extraversion.
+Agreeableness: 3.5 - The person demonstrates a level of consideration for others' needs and a willingness to work for the team's success but may struggle with personal connections and emotional support.
+Conscientiousness: 4.5 - The person values attention to detail and diligence at work, prioritizing the completion of tasks and achieving goals.
+Openness to Experience: 3.0 - The person tends to be practical and results-oriented, with a preference for work-related tasks over social and personal experiences, indicating lower levels of openness to experience.

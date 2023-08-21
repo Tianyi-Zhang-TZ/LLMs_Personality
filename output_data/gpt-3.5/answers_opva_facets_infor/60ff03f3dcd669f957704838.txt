@@ -1,0 +1,15 @@
+Liveliness: 3.5 - The person seems to have a positive outlook and values being nice to others, but does not appear to be particularly outgoing or exuberant.
+
+Social self-esteem: 4.0 - The person seems to manage their social anxiety well and has a positive sense of self in social situations, valuing the importance of projecting confidence to make others feel comfortable.
+
+Perfectionism: 3.5 - The person places importance on being detail-oriented in their work, but also recognizes the importance of being pragmatic and collaborative with coworkers in order to accomplish tasks efficiently.
+
+Sociability: 4.0 - The person values building camaraderie with coworkers and enjoys socializing with them, even if they don't partake in certain activities like drinking.
+
+Social boldness: 3.0 - The person tends to take a more reserved approach in group discussions, and is more comfortable taking a listening role unless they have a high level of expertise on the topic at hand.
+
+Diligence: 4.0 - The person is conscientious and detail-oriented in their work, but also demonstrates a willingness to seek help from colleagues or their supervisor if they encounter a challenge.
+
+Prudence: 4.0 - The person demonstrates a thoughtful and cautious approach in situations where they might be tempted to act impulsively, preferring to try and work things out with colleagues themselves before escalating issues to management.
+
+Organization: 4.0 - The person takes pride in being very organized and clean in their work, recognizing the importance of being mindful of the needs of others who may need to use the same equipment and keeping things in order for their own efficiency as well.

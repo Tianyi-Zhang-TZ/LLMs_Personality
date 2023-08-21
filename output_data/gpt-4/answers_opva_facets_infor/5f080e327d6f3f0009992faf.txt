@@ -1,0 +1,23 @@
+Sociability: 3.5
+The individual is open to attending social events and interacting with people they are familiar with, but may not go out of their way to interact with those they don't know well.
+
+Diligence: 3.0
+The individual is willing to ask for help or try to complete tasks on their own, but may pass on tasks to others if they feel unable to complete them.
+
+Social boldness: 3.5
+The individual is comfortable speaking up in group discussions when they have something to contribute, but may also take a more passive role when they don't have anything to add.
+
+Social self-esteem: 3.0
+The individual can feel uncomfortable in social settings where they don't know anyone, but can usually overcome this discomfort and engage with others.
+
+Perfectionism: 3.5
+The individual is attentive and focused when tasks require attention to detail, but may not always be as focused when information is repetitive.
+
+Liveliness: 3.5
+The individual tries to help others when they are feeling down, but also recognizes that not everyone wants to be cheered up and respects their preferences.
+
+Organization: 4.0
+The individual enjoys putting things away and keeping their workspace clean and organized, finding satisfaction in seeing everything in its place.
+
+Prudence: 3.5
+The individual is open to change and willing to take on new challenges if it will benefit their career or the company, but may be more motivated by external incentives like money or recognition.

@@ -1,0 +1,15 @@
+Liveliness: 3.0 - The individual reported feeling pressure in a situation where they had to raise the spirits of their team members, but ultimately felt confident in their ability to do so. This suggests an average level of liveliness, with some instances of feeling energized and enthusiastic, but also some instances of feeling pressure or down.
+
+Social self-esteem: 2.5 - The individual reported feeling shy and nervous in social settings where they don't know anyone, but also reported taking steps to approach others. This suggests an average level of social self-esteem, with some instances of feeling uncomfortable in social situations, but also some willingness to put themselves out there.
+
+Perfectionism: 2.5 - The individual reported feeling anxious and worried when a task required paying attention to details in order to avoid mistakes. This suggests an average level of perfectionism, with some instances of striving for high quality work, but also some instances of feeling anxious or worried about making mistakes.
+
+Sociability: 2.0 - The individual reported feeling timid and scared about hanging out with co-workers they're not close with, which led them to decline the social invitation. This suggests a lower level of sociability, with some instances of feeling uncomfortable around others.
+
+Social boldness: 3.5 - The individual reported starting off feeling shy in a philosophy class, but later becoming very outspoken and confident in sharing their opinions. This suggests a higher level of social boldness, with some instances of feeling intimidated in group discussions, but also some instances of feeling confident in sharing their ideas.
+
+Diligence: 3.0 - The individual reported feeling flustered and frustrated when encountering a difficult task at work, but ultimately seeking guidance from a more experienced authority figure. This suggests an average level of diligence, with some instances of persevering through difficult tasks, but also some instances of feeling overwhelmed or inadequate.
+
+Prudence: 4.0 - The individual reported taking a patient and disciplined approach when wanting to buy a product at work, waiting a few weeks before making the decision to purchase. This suggests a higher level of prudence, with a willingness to weigh options and make thoughtful decisions.
+
+Organization: 3.5 - The individual reported being very aware of their surroundings and confident in their ability to execute a strict protocol for using equipment at work. This suggests a higher level of organization, with some instances of being conscientious about following protocols and maintaining a safe environment.

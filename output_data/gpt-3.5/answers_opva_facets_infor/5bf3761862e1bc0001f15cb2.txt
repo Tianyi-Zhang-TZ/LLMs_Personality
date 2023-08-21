@@ -1,0 +1,17 @@
+Liveliness: 2.5 - The person seems to have some ability to raise the spirits of others but can be affected by the emotions of those around them. 
+
+Social self-esteem: 2.0 - The person is very shy and uncomfortable in social settings, indicating lower social self-esteem. 
+
+Perfectionism: 3.5 - The person has a strong tendency towards perfectionism, focusing on details and being bothered by things not being in their place. 
+
+Sociability: 2.5 - The person enjoys being around people but finds social settings draining and needs time to decompress, indicating moderate sociability. 
+
+Social boldness: 2.0 - The person tends to gravitate towards listening roles in group discussions and feels uncomfortable in constant leadership positions, indicating lower social boldness. 
+
+Diligence: 4.0 - The person is diligent and persevering, taking responsibility for tasks and not wanting to burden others, indicating a high level of diligence. 
+
+Prudence: 4.0 - The person is cautious and considers multiple scenarios before making a decision, indicating a high level of prudence. 
+
+Organization: 3.5 - The person has a strong tendency towards being organized and attentive to details, being bothered by things out of place and taking time to check and recheck, indicating a high level of organization. 
+
+These ratings are based on the person's responses to each question and reflect an overall assessment of their personality across the 8 facets of the HEXACO model.

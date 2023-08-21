@@ -1,0 +1,5 @@
+Conscientiousness: 3.5 
+The individual shows a moderate level of conscientiousness. They make efforts to do tasks correctly and ask for help when they need it, as indicated in response to question 4. However, their conscientiousness might be affected by lack of knowledge or skills as shown in their answer to question 2. In response to question 6, it is unclear how they would act, as they did not provide an answer. In response to question 8, they mention an aversion to impulsive behavior, indicating a degree of self-control that is consistent with high conscientiousness.
+
+Extraversion: 2.0 
+The individual shows low levels of extraversion. They tend to be the quiet one in situations where they don't know anybody (question 1) and they acknowledge that they are not very outgoing(question 5). While in group discussions (question 3), they usually assume a passive role unless they are the only one representing their community—a conditional situation. They do sometimes engage with others to uplift their spirits (question 7), but this is likely more a manifestation of their empathetic nature than an extroverted orientation.

@@ -1,0 +1,25 @@
+Based on the answers given, the personality score ratings are as follows:
+
+Liveliness: 2.5
+The respondent doesn't seem to be a particularly lively person, and often takes their work very seriously.
+
+Social self-esteem: 4.0
+The respondent seems to be confident in their social interactions, even when they are in unfamiliar situations.
+
+Perfectionism: 4.0
+The respondent values order and structure in their work, and strives for excellence in their tasks.
+
+Sociability: 3.5
+Although initially hesitant in social situations, the respondent values building relationships with their colleagues and subordinates.
+
+Social boldness: 3.5
+The respondent appears to be comfortable taking charge in social situations, particularly in their work environment.
+
+Diligence: 4.5
+The respondent is highly dedicated to their work, often going above and beyond the call of duty in order to complete tasks.
+
+Prudence: 4.0
+The respondent is proactive in their work, and values planning and organization in order to avoid potential problems.
+
+Organization: 4.5
+The respondent highly values order and structure in their work, and has learned through experience the importance of prioritization and attention to detail.

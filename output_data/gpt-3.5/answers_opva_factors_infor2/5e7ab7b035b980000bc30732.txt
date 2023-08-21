@@ -1,0 +1,8 @@
+Extraversion: 4.0
+Conscientiousness: 3.5
+
+Extraversion: The individual exhibits characteristics of being outgoing, talkative, and enthusiastic in social settings where they don't know anyone. They feel empowered and invulnerable in approaching and striking up conversations with others. They also express a desire for friendship and connection with others. These traits suggest a relatively high level of extraversion.
+
+Conscientiousness: The individual demonstrates attention to detail and a desire to ensure that things are organized and contained properly at work. They express a cautious and careful approach to tasks that require paying attention to details. They are also willing to push themselves harder when faced with challenging situations instead of passing the task to someone else. These traits indicate a moderate level of conscientiousness.
+
+Overall, the individual exhibits a higher level of extraversion than conscientiousness. They show a strong inclination towards socializing, being outgoing, and initiating conversations. While they also demonstrate some conscientious traits such as attention to detail and a willingness to push themselves, these tendencies are not as pronounced as their extraverted tendencies.

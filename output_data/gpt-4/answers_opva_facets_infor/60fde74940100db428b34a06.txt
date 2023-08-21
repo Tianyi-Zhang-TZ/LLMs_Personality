@@ -1,0 +1,23 @@
+Organization: 4.5
+The individual seems to value organization and putting things back in their place. They also consider the impact of their actions on others and communicate changes when necessary.
+
+Prudence: 4.0
+The person tends to be thoughtful and deliberate in their actions, avoiding impulsive behavior, especially in a work setting.
+
+Sociability: 2.5
+The individual is not very comfortable in social situations, especially when they don't know anyone. They prefer to have at least one person they know with them and are likely to leave early from social events.
+
+Social self-esteem: 2.5
+The person is timid and holds back in unfamiliar social settings, feeling uncomfortable until they can assess the situation and find a way to engage in conversation.
+
+Liveliness: 3.5
+The individual is willing to help raise the spirits of team members when they are feeling down and listens to their concerns, but also encourages them to compartmentalize and focus on work.
+
+Social boldness: 3.5
+The person is confident when leading group discussions, particularly in situations where they have experience and expertise. They also pay attention to body language and reflect on their own behavior.
+
+Diligence: 4.0
+The individual is methodical and careful when faced with challenging tasks, breaking them down into smaller parts and seeking help when necessary. They also reflect on the reasons behind being assigned such tasks.
+
+Perfectionism: 4.0
+The person enjoys tasks that require attention to detail and takes satisfaction in completing them accurately. They prefer to approach tasks in a way that suits their personality and can become hyper-focused on the task at hand.

@@ -1,0 +1,15 @@
+Liveliness: 3.5 - The individual seems to have an average level of liveliness, as seen in their moderate socializing and ability to lift team spirits when needed (Question 7).
+
+Social self-esteem: 2.5 - The individual appears to have lower social self-esteem as they struggled in social situations where they did not know anyone (Question 1).
+
+Perfectionism: 3.5 - The individual seems to value following procedures and paying attention to detail in order to avoid mistakes (Question 6), but also recognizes when they may need help and can delegate tasks when necessary (Question 4).
+
+Sociability: 3.0 - The individual is not the most talkative person and may struggle in social situations, but they are willing to participate in after-work events (Question 5) and offer input during group discussions (Question 3).
+
+Social boldness: 2.5 - The individual tends to take a listening role in group discussions rather than a leading role (Question 3) and may struggle in unfamiliar social situations (Question 1).
+
+Diligence: 4.0 - The individual values hard work and perseverance, as seen in their willingness to follow procedures carefully in order to perform computer upgrades correctly (Question 6).
+
+Prudence: 3.5 - The individual is aware of potential risks and considers the consequences of their actions, as demonstrated in their decision to seek help from someone more knowledgeable when they were struggling with computer upgrades (Question 4).
+
+Organization: 3.5 - The individual understands the importance of organization and following procedures in order to avoid mistakes, as seen in their focus on ensuring that equipment was put back in place after use (Question 2) and careful attention to detail during computer upgrades (Question 6).

@@ -1,0 +1,11 @@
+Based on the responses to the questions, here are the personality ratings for the HEXCO model:
+Liveliness: 3.5 - The individual seems to be generally upbeat and willing to engage with others, but may become overwhelmed and shut down in stressful situations.
+Social self-esteem: 2.5 - The individual expresses discomfort and hesitancy in approaching new people and forming relationships, indicating lower social self-esteem.
+Perfectionism: 3 - The individual displays a tendency towards hyper focus and frustration when tasks require attention to detail and avoiding mistakes.
+Sociability: 3 - The individual shows readiness to try social events with new people, despite feeling awkward and unsure.
+Social boldness: 3.5 - The individual tends to assume leadership positions and delegate during group discussions and tasks.
+Diligence: 3 - The individual can be overwhelmed and stressed by challenging tasks, but ultimately wants to complete them and may struggle with feeling unproductive or lazy.
+Prudence: 2.5 - The individual recognizes their tendency towards stubbornness and hyper focus, but may not always consider how their actions impact others in getting what they want.
+Organization: 3.5 - The individual shows a strong inclination towards conscientiousness and orderliness, both in terms of cleaning and preparing for their work and in delegation and getting all necessary tasks done in groups. 
+
+Overall, the individual displays a mix of positive and negative traits, with strengths in liveliness, social boldness, and organization, and areas for improvement in social self-esteem, prudence, and diligence.

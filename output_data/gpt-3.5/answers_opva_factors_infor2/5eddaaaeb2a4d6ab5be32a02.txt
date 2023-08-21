@@ -1,0 +1,8 @@
+Extraversion: 2.5
+Conscientiousness: 4.0
+
+Based on the answers provided, the individual describes themselves as more reserved and withdrawn in social situations where they feel uncomfortable (Question 1). They also mentioned being independent, determined, and enjoying problem-solving tasks (Question 4). These indicate a moderate level of extroversion as they prefer to take a more passive role in group discussions (Question 3) and are not inclined to raise team member spirits (Question 7). 
+
+In terms of conscientiousness, the individual demonstrates a strong need for organization and tidiness in their work environment (Question 2). They mentioned being detail-oriented and focused on precision and accuracy (Question 6). They prioritize productivity and completing tasks before considering attending social events after work (Question 5). 
+
+Overall, the individual's personality score for extraversion is moderate (2.5) because they exhibit mixed tendencies of introversion and extroversion. Their personality score for conscientiousness is relatively high (4.0) as they value organization, planning, and attention to detail in their work.

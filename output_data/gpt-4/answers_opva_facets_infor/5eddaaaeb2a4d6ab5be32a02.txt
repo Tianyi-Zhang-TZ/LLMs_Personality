@@ -1,0 +1,25 @@
+Sociability: 2.5
+The individual seems to have a balanced approach to social situations, joining events when they feel accomplished but also prioritizing work when needed.
+
+Diligence: 4.0
+The individual appears to be hard-working and determined, pushing themselves to complete challenging tasks and seeking help when necessary.
+
+Social boldness: 3.5
+The individual is able to take on both leading and listening roles in group discussions, depending on the group dynamics, showing adaptability in social situations.
+
+Social self-esteem: 2.0
+The individual tends to be more reserved and withdrawn in uncomfortable social situations, only responding when directly asked questions.
+
+Perfectionism: 4.0
+The individual is detail-oriented and focused on precision when tasks require attention to detail, such as in their research lab work.
+
+Liveliness: 2.0
+The individual is not particularly outgoing or spirited, and does not typically raise the spirits of team members, but they do show compassion and comfort towards others.
+
+Organization: 3.5
+The individual values cleanliness and organization at work, especially when influenced by their manager or principal investigator, but may not be as vigilant in non-work environments.
+
+Prudence: 4.0
+The individual is not impulsive and prefers to think before acting, brainstorming, and planning in order to achieve their goals.
+
+These ratings are based on the individual's responses to the questions, which provide insight into their personality traits according to the HEXACO model. The individual demonstrates a mix of traits, with higher ratings in diligence, perfectionism, and prudence, and lower ratings in social self-esteem and liveliness.

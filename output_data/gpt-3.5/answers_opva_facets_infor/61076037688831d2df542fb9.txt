@@ -1,0 +1,15 @@
+Liveliness: 2.5 - The responses indicate occasional liveliness, but not consistently.
+
+Social self-esteem: 3.0 - The response shows an effort to be social and interact in social situations despite feeling uncomfortable, which suggests a moderate level of social self-esteem.
+
+Perfectionism: 4.0 - The response indicates high attention to detail and a drive to avoid making mistakes, which suggests high levels of perfectionism.
+
+Sociability: 2.5 - The response shows an effort to interact with others in social situations but also a preference for solitude and not attending after-work events, which suggests moderate sociability.
+
+Social boldness: 2.5 - The response indicates a willingness to speak up in group discussions but also an awareness of others' discomfort and a hesitancy to be the only one talking, which suggests moderate social boldness.
+
+Diligence: 4.0 - The response indicates an ability to persist and push through challenging tasks to meet deadlines, which suggests high levels of diligence.
+
+Prudence: 3.5 - The response indicates a balance between self-control and giving in to impulses, suggesting a moderate level of prudence.
+
+Organization: 4.0 - The response indicates a highly organized approach to work and a reliance on a clean work environment to maintain focus, which suggests high levels of organization.

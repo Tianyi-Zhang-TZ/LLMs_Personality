@@ -1,0 +1,25 @@
+Sociability: 4.5
+The individual seems to be outgoing and enjoys social events, as well as fostering connections with their coworkers.
+
+Prudence: 3.5
+The individual shows a balance between acting on impulse and being deliberate in their actions, as seen in their approach to taking on a project.
+
+Organization: 4.0
+The individual is tidy and keeps track of items and passwords, as well as maintaining organizational structures in their work.
+
+Social boldness: 4.0
+The individual is aware of their surroundings and contributes to group discussions when they have something valuable to add, showing confidence in their knowledge.
+
+Diligence: 4.5
+The individual is stubborn and motivated, taking on challenging tasks and persevering despite difficulties.
+
+Perfectionism: 4.0
+The individual pays close attention to detail in their work, ensuring that no mistakes are made and that all aspects are addressed.
+
+Liveliness: 4.0
+The individual is supportive and goes out of their way to help team members, showing a positive attitude and energy.
+
+Social self-esteem: 4.5
+The individual is comfortable in social settings, even when they don't know anyone, and actively seeks out connections with others.
+
+These ratings are based on the individual's responses to the questions, which demonstrate their strengths and tendencies in each facet of the HEXACO personality model.

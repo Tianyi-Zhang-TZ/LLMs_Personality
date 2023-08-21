@@ -1,0 +1,6 @@
+Conscientiousness: 3.0
+Extraversion: 2.5
+
+The individual demonstrates a moderate level of conscientiousness, as they show some attention to detail and willingness to help others in certain situations (e.g., Question 7). However, they also exhibit instances of cutting corners or avoiding extra effort (e.g., Question 2 and Question 4). 
+
+Their extraversion rating is slightly below average, as they seem to be comfortable in social situations but may not actively seek them out or take the lead in group discussions (e.g., Question 1 and Question 3). They also show a preference for personal relaxation over socializing with coworkers (e.g., Question 5).

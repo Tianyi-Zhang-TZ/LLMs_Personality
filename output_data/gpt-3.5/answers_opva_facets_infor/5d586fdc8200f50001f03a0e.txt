@@ -1,0 +1,15 @@
+Liveliness: 3.5 - The response to question 7 indicates a willingness to raise team members' spirits, indicating a certain level of liveliness and energy. However, other responses do not indicate a particularly high level of liveliness.
+
+Social self-esteem: 2.0 - The response to question 1 indicates a lack of comfort in social situations. Additionally, there is no indication of strong self-esteem in other responses.
+
+Perfectionism: 2.5 - The response to question 6 suggests a concern for avoiding mistakes and attention to detail, indicating a moderate level of perfectionism. However, other responses do not strongly indicate a tendency towards perfectionism.
+
+Sociability: 1.5 - The response to question 5 indicates an avoidance of social situations, suggesting a low level of sociability.
+
+Social boldness: 2.5 - The response to question 3 demonstrates a willingness to take on a leadership role in a group discussion, indicating a moderate level of social boldness. However, other responses do not strongly indicate a tendency towards social boldness.
+
+Diligence: 3.5 - The response to question 4 indicates a willingness to push oneself harder to complete a challenging task, indicating a high level of diligence. 
+
+Prudence: 4.0 - The response to question 8 suggests a cautious approach and a consideration for avoiding losses, indicating a high level of prudence.
+
+Organization: 2.5 - The response to question 2 indicates a lack of organization, suggesting a moderate level of disorganization. Other responses do not strongly indicate a tendency towards organization.

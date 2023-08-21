@@ -1,0 +1,25 @@
+Sociability: 2.5
+The individual seems to prioritize family and church over after-work social events, indicating a lower level of sociability in work-related settings.
+
+Diligence: 4.0
+The person appears to be determined and persistent in completing tasks, even when they are challenging, which shows a high level of diligence.
+
+Social boldness: 3.5
+The individual is comfortable asking questions and contributing to group discussions, indicating a moderate level of social boldness.
+
+Social self-esteem: 3.0
+The person was initially nervous in a social setting with unfamiliar people but pushed through and had a positive experience, showing a moderate level of social self-esteem.
+
+Perfectionism: 2.5
+The individual admits to making simple mistakes in tasks requiring attention to detail, indicating a lower level of perfectionism.
+
+Liveliness: 4.0
+The person actively tries to raise the spirits of their team members when they are feeling down, demonstrating a high level of liveliness.
+
+Organization: 3.5
+The individual learned to pay attention to the organization of equipment after an initial struggle, indicating a moderate level of organization.
+
+Prudence: 4.0
+The person cannot recall acting impulsively to get something they wanted at work, suggesting a high level of prudence.
+
+These ratings are based on the individual's responses to the questions, which provide insight into their personality traits according to the HEXACO model. The ratings reflect an overall assessment of their personality, taking into account the various situations described in their answers.

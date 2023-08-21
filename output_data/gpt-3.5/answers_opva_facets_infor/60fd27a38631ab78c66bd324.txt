@@ -1,0 +1,17 @@
+Liveliness: 3.5 
+Social self-esteem: 2.5 
+Perfectionism: 2.0 
+Sociability: 1.5 
+Social boldness: 2.0 
+Diligence: 3.0 
+Prudence: 3.5 
+Organization: 4.0 
+
+The rating for Liveliness is 3.5 because the person appears to be positive and tries to maintain good morale but may not be very outgoing or exuberant. 
+The rating for Social self-esteem is 2.5 because the person expresses anxiety in social settings and is generally shy. 
+The rating for Perfectionism is 2.0 because the person notes that they are not particularly detail-oriented and may even become irritated with those types of tasks. 
+The rating for Sociability is 1.5 because the person expresses discomfort in social situations and notes that they are introverted. 
+The rating for Social boldness is 2.0 because the person tends to prefer a listening role in group discussions and is generally shy. 
+The rating for Diligence is 3.0 because the person expresses a desire to do things themselves and a tendency to be independent. 
+The rating for Prudence is 3.5 because the person notes that they have a guilty conscience and like to make sure they are not stepping on others' toes. 
+The rating for Organization is 4.0 because the person notes that they try to be fastidious when it comes to work tasks and try not to ruffle any feathers.

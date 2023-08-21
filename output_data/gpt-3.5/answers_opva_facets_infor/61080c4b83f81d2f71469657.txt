@@ -1,0 +1,15 @@
+Liveliness: 2.5 - The individual shows some level of liveliness, as seen in their ability to listen and raise the spirits of their coworkers when necessary.
+
+Social self-esteem: 2.0 - The individual does not have high social self-esteem, as they tend to be cautious and do not go out of their way to meet people at social events.
+
+Perfectionism: 2.5 - The individual is somewhat perfectionistic, as they tend to focus on details and can get tunnel vision on specific tasks.
+
+Sociability: 2.0 - The individual is not highly sociable, preferring small group parties with familiar people rather than large social events with strangers.
+
+Social boldness: 2.5 - The individual is somewhat socially bold, as seen in their willingness to assume a leading role in a group discussion.
+
+Diligence: 2.0 - The individual is not highly diligent, as they tend to put things off to the last minute and have difficulty focusing on detailed tasks.
+
+Prudence: 3.0 - The individual is quite prudent, preferring to stay on a steady and grounded path in their work and not act on impulse.
+
+Organization: 2.5 - The individual is somewhat organized, as seen in their ability to complete tasks and make sure everything is in check, but can become tired and bored with tedious organizational tasks.

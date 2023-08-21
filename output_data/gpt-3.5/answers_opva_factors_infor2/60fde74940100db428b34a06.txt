@@ -1,0 +1,6 @@
+Extraversion: 2.5
+Conscientiousness: 4.0
+
+Extraversion: The individual describes themselves as timid and uncomfortable in social settings where they don't know anyone. They prefer to hold back initially, assess the situation, and find common ground to initiate conversations. They tend to count down the time until they can leave such situations. This indicates a lower level of extraversion, as they are not naturally inclined towards social interactions and do not feel comfortable in those settings.
+
+Conscientiousness: The individual expresses a preference for organization and believes that everything has a place. They would find it frustrating if they couldn't put things back in their proper place and would spend additional time trying to find a solution. They also consider the impact of their actions on others and leave a note if necessary to communicate any changes made. They demonstrate a methodical and thoughtful approach to tasks, breaking them down into smaller parts, seeking guidance when needed, and reflecting on their performance afterwards. This indicates a higher level of conscientiousness, as they value organization, attention to detail, and accountability for their actions.

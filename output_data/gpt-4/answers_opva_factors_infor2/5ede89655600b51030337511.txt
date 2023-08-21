@@ -1,0 +1,6 @@
+Conscientiousness: 4.6 
+Extraversion: 3.5 
+
+This person demonstrates a high level of conscientiousness in their responses. They show attention to detail in their work (Q6), consistency in maintaining organization (Q2), and a propensity for pushing through challenges rather than giving up (Q4). They are methodical and appear to take their commitments seriously (Q8). Thus, it seems fair to rate their level of Conscientiousness at 4.6, where 1 is low and 5 is high.
+
+As for Extraversion, this person performs relatively well in social situations, is comfortable meeting new people (Q1), and tends to lead in group discussions (Q3). However, they also show a need for personal space and alone time (Q5) and admit to being on the quieter side in team settings (Q7). Given this mix of introverted and extroverted tendencies, I would rate their level of Extraversion at a moderate 3.5.

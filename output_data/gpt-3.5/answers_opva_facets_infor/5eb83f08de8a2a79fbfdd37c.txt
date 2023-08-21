@@ -1,0 +1,17 @@
+Based on the answers provided, the personality ratings for the HEXACO model are as follows:
+
+Liveliness: 3.5 - The individual seems to be willing to try to boost team morale and engage in conversation, but they do not appear to be particularly outgoing or exuberant in their actions. 
+
+Social self-esteem: 4.0 - The individual seems to be confident in their ability to interact with strangers and is able to engage in conversations with them, even if they are initially closed off to socializing.
+
+Perfectionism: 4.5 - The individual strongly values organization and paying close attention to detail in order to do their work to the best of their ability.
+
+Sociability: 3.5 - The individual seems to value socializing and making connections with others in order to build relationships, but they do not appear to be particularly outgoing or exuberant in their actions. 
+
+Social boldness: 3.0 - The individual is willing to take a leadership role if it is necessary, but generally seems more comfortable following the lead of others when in group discussions.
+
+Diligence: 4.0 - The individual seems determined to complete tasks to the best of their ability, even if they are challenging.
+
+Prudence: 4.5 - The individual is careful not to act impulsively and instead takes the time to consider their actions and make decisions that will not harm them or others in the long run.
+
+Organization: 4.5 - The individual values keeping their work environment organized and in order to facilitate their work and that of others.

@@ -1,0 +1,17 @@
+Based on the responses given, the personality rating for each facet of the HEXACO model is:
+
+Liveliness: 3.5 - The participant described themselves as someone who would try to raise the spirits of others when they are feeling down. However, there were not many examples of high-energy or spontaneous behavior.
+
+Social self-esteem: 2.0 - The participant described feeling very uncomfortable in social situations where they do not know anyone. They also mentioned being very self-conscious and feeling like others are talking about them. These are indications of low social self-esteem.
+
+Perfectionism: 4.0 - The participant described themselves as being very detailed-oriented and paying great attention to detail. They also said they try very hard to avoid making mistakes, which are indicators of high perfectionism.
+
+Sociability: 2.5 - The participant mentioned feeling uncomfortable in social situations where they do not know anyone. They also said they are naturally quiet and tend to sit back and listen in group situations. These are indications of lower sociability.
+
+Social boldness: 2.5 - The participant said their behavior in group discussions depended on their level of knowledge in the topic. They also said they are naturally quiet and introverted. These are indications of lower social boldness.
+
+Diligence: 4.0 - The participant said they typically push themselves harder when faced with a challenging task. They also mentioned enjoying problem-solving and learning new things, which are indicators of high diligence.
+
+Prudence: 3.5 - The participant said they want to quit their job but have not done so impulsively because they need to financially support themselves. This indicates a moderate level of prudence.
+
+Organization: 3.5 - The participant said they are very specific when putting away tools or cleaning up after a project. They also mentioned feeling great when things are organized and easy to access. These are indications of moderate levels of organization.

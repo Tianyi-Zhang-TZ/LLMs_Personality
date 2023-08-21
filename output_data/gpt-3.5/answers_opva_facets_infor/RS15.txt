@@ -1,0 +1,23 @@
+Liveliness: 4.0
+The person seems to be energetic and outgoing, and willing to make jokes to cheer up others.
+
+Social self-esteem: 3.5
+The person seems to value social connections and being accepted in a group, but they also acknowledge feeling uncomfortable in unfamiliar social settings.
+
+Perfectionism: 4.0
+The person strives for excellence and takes special care to avoid mistakes, even in situations outside their comfort zone.
+
+Sociability: 4.5
+The person enjoys socializing and meeting new people, and is energized by after-work events.
+
+Social boldness: 3.5
+The person is comfortable taking a leading role in group discussions and advocating for their ideas, but may need a common goal or task before becoming more comfortable.
+
+Diligence: 4.0
+The person is hardworking and diligent, becoming more organized and pushing themselves to do more when necessary.
+
+Prudence: 3.5
+The person is patient and willing to wait for the right moment before acting on impulse, but may not always prioritize planning or caution.
+
+Organization: 4.0
+The person values organization and structure, and takes time to properly structure their tasks and responsibilities to avoid making mistakes.

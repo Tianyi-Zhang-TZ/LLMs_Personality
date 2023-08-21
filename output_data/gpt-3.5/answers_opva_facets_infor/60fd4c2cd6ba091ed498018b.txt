@@ -1,0 +1,15 @@
+Liveliness: 2.5 - based on the response to Question 7, the person tends to avoid situations that require them to raise the spirits of others, indicating a lack of enthusiasm or liveliness in social situations.
+
+Social self-esteem: 2.5 - based on the response to Question 1, the person has low social self-esteem and is uncomfortable in new social situations.
+
+Perfectionism: 4.0 - based on the response to Question 6, the person is detail-oriented and strives for accuracy in their work.
+
+Sociability: 3.5 - based on the response to Question 5, the person enjoys social situations and likes to talk to people, but may not be the most outgoing or loud in a social setting.
+
+Social boldness: 2.5 - based on the response to Question 3, the person is typically hesitant to speak up in a large group discussion and may overthink what they want to say.
+
+Diligence: 3.5 - based on the response to Question 4, the person tends to push themselves harder when faced with a challenging task and may only ask for help as a last resort.
+
+Prudence: 3.5 - based on the response to Question 8, the person thinks things over and considers whether or not their actions are appropriate before acting on impulse.
+
+Organization: 4.0 - based on the response to Question 2, the person is very organized and likes to put everything back in its proper place.

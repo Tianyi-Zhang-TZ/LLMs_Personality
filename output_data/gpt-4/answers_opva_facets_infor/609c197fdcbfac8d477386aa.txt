@@ -1,0 +1,25 @@
+Sociability: 2.5
+The person seems to prefer not socializing with coworkers outside of work and doesn't consider them friends. However, they can engage in conversations when approached by others.
+
+Diligence: 4.0
+The person tries to figure out challenging tasks and uses available resources before considering passing it off to someone else. They take responsibility for their tasks.
+
+Social boldness: 2.0
+The person prefers to be a listener rather than a leader in group discussions and doesn't enjoy public speaking.
+
+Social self-esteem: 3.5
+Although they feel uncomfortable in unfamiliar social settings, they can engage in conversations with others easily and naturally.
+
+Perfectionism: 4.5
+The person is detail-oriented and finds paying attention to details to avoid mistakes as a standard part of work.
+
+Liveliness: 2.5
+They might offer some words of encouragement to team members but don't put in much effort to raise their spirits.
+
+Organization: 4.0
+The person is organized and puts things back in place unless they think they'll need it again later in the day.
+
+Prudence: 4.0
+The person doesn't act impulsively and would consider the best option to achieve their goals or wait for the right opportunity.
+
+These ratings are based on the person's responses to the questions, which provide insight into their personality traits according to the HEXACO model. The ratings reflect their overall tendencies in each facet, taking into account their behavior and attitudes in various situations.

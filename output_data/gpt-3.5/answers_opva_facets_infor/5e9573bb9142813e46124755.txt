@@ -1,0 +1,15 @@
+Liveliness: 2.0 - The individual seems reserved and not very expressive in social situations or when trying to lift the spirits of others.
+
+Social self-esteem: 2.5 - The individual feels uncomfortable in social situations and tends to avoid confrontation. They also have difficulty making small talk and lack confidence in social interactions.
+
+Perfectionism: 3.5 - The individual is meticulous and strives for perfection in tasks, particularly when it comes to teaching and being a good role model.
+
+Sociability: 2.0 - The individual is not very sociable and tends to keep to themselves. They prefer hanging out with close friends and avoid social interactions with people they do not know.
+
+Social boldness: 2.5 - While the individual has ambitions and is willing to take control of projects they are passionate about, they tend to avoid confrontations and do not seem overly confident in social situations.
+
+Diligence: 3.0 - The individual is willing to put a lot of effort into work when they are motivated and interested in a project. However, they may also choose to avoid tasks that they do not want to do.
+
+Prudence: 3.5 - The individual is cautious and hesitant to act impulsively, particularly in situations where they might be caught lying about their credentials. They weigh the potential consequences of their actions before making a decision.
+
+Organization: 1.0 - The individual's answer does not provide any indication of their organizational skills or ability to keep things in place.

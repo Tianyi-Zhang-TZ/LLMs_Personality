@@ -1,0 +1,15 @@
+Liveliness: 3.5 - The individual seems to have a positive and upbeat attitude, but may not always be the center of attention or seek out excitement.
+
+Social self-esteem: 2.5 - The individual reports feeling uncomfortable in social situations with unfamiliar people, indicating lower social self-esteem.
+
+Perfectionism: 3.0 - The individual describes taking care to follow directions carefully in a lab setting, but also expresses a willingness to ask for help and clarification.
+
+Sociability: 2.5 - The individual reports being introverted but willing to push themselves out of their comfort zone in social situations.
+
+Social boldness: 3.0 - The individual reports being nervous in group discussions but also willing to participate and speak up.
+
+Diligence: 3.5 - The individual reports being willing to push themselves and work hard, but also willing to ask for help when needed.
+
+Prudence: 2.5 - The individual reports being generally rule-abiding and not willing to act on impulse to get what they want.
+
+Organization: 3.0 - The individual reports being conscientious about putting equipment away properly, but also feeling somewhat confused and lost in the process.

@@ -1,0 +1,15 @@
+Liveliness: 4.0 - The individual seems to be generally upbeat and willing to raise others' spirits in a team setting.
+
+Social self-esteem: 4.0 - The individual does not seem to be uncomfortable in social situations and is described as friendly and welcoming.
+
+Perfectionism: 3.0 - The individual values structure and following steps in a task but is not described as overly concerned with avoiding mistakes.
+
+Sociability: 3.0 - The individual is willing to socialize with coworkers but may not always feel up to after-work events.
+
+Social boldness: 3.5 - The individual is described as able to listen or lead in a group setting, indicating comfort and confidence in social situations.
+
+Diligence: 4.0 - The individual pushes themselves to meet challenging tasks and does not shy away from difficult work.
+
+Prudence: 3.0 - The individual is generally level-headed and thinks before acting, but will act impulsively if it is for the greater good.
+
+Organization: 4.0 - The individual takes care of equipment and prefers to solve an issue themselves rather than wait for someone else to address it.

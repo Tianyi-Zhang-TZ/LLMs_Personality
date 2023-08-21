@@ -1,0 +1,15 @@
+Liveliness: 3.5 - Based on the answer to question 7, the person seems to have a willingness to uplift and motivate team members, indicating a moderate level of liveliness.
+
+Social self-esteem: 2.5 - Based on the answer to question 1, the person doesn't seem to be very comfortable in social situations where they don't know anyone, indicating a lower level of social self-esteem.
+
+Perfectionism: 3.0 - Based on the answer to question 6, the person tries their best to focus on details in order to avoid mistakes, indicating a moderate level of perfectionism.
+
+Sociability: 2.5 - Based on the answer to question 5, while the person is willing to attend after-work social events with familiar co-workers, they tend to skip events with co-workers they're not familiar with, indicating a lower level of sociability.
+
+Social boldness: 2.0 - Based on the answer to question 3, the person tends to assume the listening role in group discussions and doesn't seem to feel comfortable speaking up and expressing their opinion, indicating a lower level of social boldness.
+
+Diligence: 4.0 - Based on the answer to question 4, the person tries their best to push themselves harder when faced with challenging tasks and doesn't tend to give up, indicating a high level of diligence.
+
+Prudence: 3.5 - Based on the answer to question 8, the person doesn't usually act on impulse and likes to take their time with decisions, indicating a moderate level of prudence.
+
+Organization: 4.0 - Based on the answer to question 2, the person describes themselves as organized and tidy, indicating a high level of organization.

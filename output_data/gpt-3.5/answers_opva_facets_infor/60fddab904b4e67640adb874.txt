@@ -1,0 +1,15 @@
+Liveliness: 3.0 - The individual appears to have a generally positive attitude and likes to encourage others, but may be affected by the team dynamics and perform differently in different situations.
+
+Social self-esteem: 3.5 - The individual appears to be open to meeting new people and initiating conversations, but may become uncomfortable if the topics are not interesting or they do not know anything about them.
+
+Perfectionism: 4.0 - The individual is very detail-oriented and tends to double-check the work to avoid making mistakes in order to get the results they need for their experiments.
+
+Sociability: 3.5 - The individual enjoys attending after-work or after-school social events to build trust and friendships, which may help in group projects or achieving common goals.
+
+Social boldness: 3.5 - The individual tends to take control of group discussions by starting off with the task and listening to the group members' opinions, skills, and abilities to ensure that everyone can contribute.
+
+Diligence: 4.0 - The individual tries to maintain a level head and pushes themselves even when working on a difficult project with strict deadlines.
+
+Prudence: 4.0 - The individual tends to think through a lot of things before doing them and plans accordingly to avoid being disorganized, distracted, or scattered-minded.
+
+Organization: 4.0 - The individual is very organized and likes to have everything in a specific manner so that they can find things easily and maintain the condition of the items.

@@ -1,0 +1,17 @@
+Honesty-Humility: 4.0
+The person seems to be honest and sincere in their interactions with others and takes their responsibilities at work seriously, considering the impact on their fellow co-workers.
+
+Emotionality: 3.5
+The person does express emotions, but tends to be reserved in social situations where they do not know people well. They also seem to be able to assess their own emotional and physical state when making decisions about social events.
+
+Extraversion: 3.5
+The person has a mixed personality when it comes to social settings. They can be introverted and quiet in new situations, but they also enjoy being in social group settings and are energized by being around people.
+
+Agreeableness: 4.5
+The person seems to be very socially aware of the needs of others and tries to be conscientious of their co-workers needs in shared workspaces. They also express empathy and concern for their colleagues when they are feeling down.
+
+Conscientiousness: 4.0
+The person shows a strong sense of responsibility towards getting their work done, being organized, and paying attention to details. They also take on leadership roles in group settings, ensuring that tasks are completed efficiently.
+
+Openness to Experience: 3.0
+While the person shows enthusiasm towards things they are passionate about, they also express that they can get bogged down in detail-oriented tasks after a while. They tend to be more practical and cautious in assessing new situations, rather than taking risks or being highly creative.

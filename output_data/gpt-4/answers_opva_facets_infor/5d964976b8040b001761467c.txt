@@ -1,0 +1,23 @@
+Sociability: 3.5
+The individual seems to enjoy social events and connecting with coworkers but also mentions times when they declined invitations due to exhaustion.
+
+Diligence: 3.5
+The person shows a willingness to complete tasks and push themselves, but also acknowledges times when they gave up when they shouldn't have.
+
+Social boldness: 3.0
+The individual is comfortable in social settings and can take on a listening role, but doesn't mention taking on a leading role in group discussions.
+
+Social self-esteem: 4.0
+The person seems confident in their ability to fit in with new groups and bases their sense of belonging on how others react to their authentic self.
+
+Perfectionism: 4.5
+The individual demonstrates a strong attention to detail and a desire to complete tasks perfectly, even when it may not be expected of them.
+
+Liveliness: 4.0
+The person shows a willingness to raise the spirits of their team members and be there for them during difficult times.
+
+Organization: 3.0
+The individual acknowledges the importance of putting things back in their place at work but also recognizes that it may not always be possible due to time constraints or lack of information.
+
+Prudence: 2.5
+The person admits to acting impulsively in certain situations, such as taking longer breaks or leaving a job they disliked, but also values honesty in their actions.

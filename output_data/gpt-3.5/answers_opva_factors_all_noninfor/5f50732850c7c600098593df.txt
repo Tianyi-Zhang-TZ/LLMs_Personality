@@ -1,0 +1,11 @@
+Honesty-Humility: 4.0 - The person shows a strong sense of responsibility, understanding, and willingness to take on more work when needed.
+
+Emotionality: 2.5 - The person appears to be reserved and not very expressive of their emotions, and their responses are relatively neutral.
+
+Extraversion: 2.0 - The person tends to keep to themselves and does not appear to actively seek out social situations, although they may reluctantly attend them.
+
+Agreeableness: 3.5 - The person appears to be a good listener and team player, willing to assume different roles as needed and taking others' feelings and input into consideration.
+
+Conscientiousness: 4.5 - The person shows a strong sense of discipline, organization, and attention to detail, which are evident in their work ethic and dedication to their job.
+
+Openness to Experience: 3.0 - The person appears to have some interest in exploring new ideas and approaches, particularly in their work as a programmer, but may not be as openly receptive to social experiences.

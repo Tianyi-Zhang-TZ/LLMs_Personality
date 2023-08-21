@@ -1,0 +1,10 @@
+Sociability: 3.0 - The individual seems to be somewhat hesitant in social situations but still attends events when invited.
+Diligence: 4.0 - The person appears to be committed to completing tasks and asking for help when needed.
+Social boldness: 3.0 - They tend to listen in unfamiliar group settings but are more assertive when they know the people involved.
+Social self-esteem: 3.5 - They are cautious about what they say around new people but still maintain a sense of humor.
+Perfectionism: 4.0 - The individual pays attention to details in order to avoid making mistakes.
+Liveliness: 3.5 - They make an effort to raise the spirits of their team members when they are feeling down.
+Organization: 4.5 - The person is meticulous about putting equipment back in its place after using it.
+Prudence: 3.5 - They are not afraid to ask for a raise when they feel they deserve it but also recognize when it may not be the right time.
+
+These ratings are based on the individual's responses to the questions, which provide insight into their personality traits according to the HEXACO model. The ratings reflect an overall assessment of their personality, taking into account their behavior and attitudes in various situations.

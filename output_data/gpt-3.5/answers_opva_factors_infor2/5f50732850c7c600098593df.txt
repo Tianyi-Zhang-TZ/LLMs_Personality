@@ -1,0 +1,8 @@
+Extraversion: 3.0
+Conscientiousness: 4.0
+
+I have rated the individual with a personality score of 3.0 for extraversion based on their responses to questions 1, 3, 5, and 8. In these situations, they expressed feelings of discomfort in social settings with unfamiliar people and hesitancy towards attending after-work social events. They also described themselves as reluctant, anxious, and not comfortable around new people. These responses indicate a lower level of extraversion.
+
+I have rated the individual with a personality score of 4.0 for conscientiousness based on their responses to questions 2, 4, 6, and 7. In these situations, they demonstrated a strong focus on organization, professionalism, attention to detail, and problem-solving. They mentioned being organized, attentive, hardworking, disciplined, and analytical. These responses indicate a higher level of conscientiousness.
+
+Overall, based on their responses to the questions, the individual displays a moderate level of extraversion and a higher level of conscientiousness.

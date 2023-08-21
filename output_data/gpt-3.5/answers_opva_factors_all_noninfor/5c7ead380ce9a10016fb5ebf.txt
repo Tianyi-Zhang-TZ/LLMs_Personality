@@ -1,0 +1,11 @@
+Honesty-Humility: 3.5 - The person appears to be truthful and sincere in their answers, but also acknowledges their own strengths and weaknesses.
+
+Emotionality: 2.5 - The person's responses indicate a relatively low level of emotional reactivity, and a tendency towards introversion.
+
+Extraversion: 2.5 - Similar to their emotionality score, the person rates as relatively introverted and reserved in social settings.
+
+Agreeableness: 3.5 - The person demonstrates a willingness to collaborate and listen to others, but also has clear boundaries and doesn't feel the need to constantly boost team morale.
+
+Conscientiousness: 3.0 - The person seems to be reasonably diligent and detail-oriented, but is also willing to push themselves when necessary and isn't afraid to pass tasks on to others if unable to complete them.
+
+Openness to Experience: 2.5 - While the person is willing to listen to others and take in feedback, they also appear to be relatively conservative in their approach to work and social situations.

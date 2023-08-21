@@ -1,0 +1,15 @@
+Liveliness: 2.0 - The responses suggest a lower level of enthusiasm and energy in social situations and when trying to lift team morale.
+
+Social self-esteem: 2.5 - The responses suggest some discomfort in social situations and uncertainty about how to act to fit in.
+
+Perfectionism: 1.5 - The responses suggest little concern with details when completing work tasks.
+
+Sociability: 2.0 - The responses suggest a moderate level of willingness to attend social events but only if there is a connection to work.
+
+Social boldness: 2.5 - The responses suggest some hesitation to take a leading role in group discussions and a preference for listening.
+
+Diligence: 3.5 - The responses suggest a strong willingness to take on challenging tasks and a commitment to exhaust all possible resources before seeking assistance.
+
+Prudence: 2.0 - The responses suggest a tendency towards impulsivity rather than careful consideration when deciding to act in response to a work-related desire.
+
+Organization: 1.0 - The responses suggest little concern with keeping things organized when completing work tasks.

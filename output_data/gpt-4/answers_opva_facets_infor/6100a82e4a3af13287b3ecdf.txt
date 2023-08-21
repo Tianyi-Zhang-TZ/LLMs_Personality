@@ -1,0 +1,23 @@
+Organization: 3.5
+The individual seems to value organization and cleanliness but does not always take the initiative to organize things themselves, especially if they feel it should be a team effort.
+
+Sociability: 2.5
+The individual is not highly sociable, preferring to stay in their comfort zone and not initiate conversations with strangers. However, they do make an effort to attend social events when possible, even if it makes them uncomfortable.
+
+Perfectionism: 3.5
+The individual pays attention to detail and is willing to put in the effort to ensure their work is accurate, but they also recognize the need to take breaks and step back from their work to maintain perspective.
+
+Social boldness: 2.0
+The individual is not very socially bold, preferring to take a listening role in group discussions and not actively participating unless they feel it is beneficial to them.
+
+Liveliness: 2.5
+The individual is not highly lively, as they are not the type to cheer up an entire team. However, they are willing to join in on the fun if someone else initiates it and can try to cheer up individuals on a one-on-one basis.
+
+Prudence: 3.5
+The individual is somewhat prudent, as they are willing to take risks and act on impulses when they feel it is necessary, such as applying for a promotion. However, they also recognize the importance of considering their actions and seeking advice from others.
+
+Social self-esteem: 2.0
+The individual has low social self-esteem, as they tend to close themselves off in social situations where they don't know anyone and prefer others to initiate conversations with them.
+
+Diligence: 4.0
+The individual is diligent, as they are willing to take on challenging tasks and learn new skills, even if it requires seeking help from others. They also try to maintain a balance between listening and working on other tasks during group discussions.

@@ -1,0 +1,6 @@
+Extraversion: 4.0
+Conscientiousness: 4.5
+
+Extraversion rating: The individual demonstrates a high level of comfort and ease in social settings where they don't know anyone. They are able to find commonalities with others and engage in group discussions, believing in the value of collaborative ideas. They are also considerate of others' feelings and offer support when team members are feeling down. These behaviors indicate a tendency towards extraversion.
+
+Conscientiousness rating: The individual shows responsibility and a sense of duty in various situations. They prioritize taking care of equipment at work and putting it back in its proper place for others to find easily. They also acknowledge their strengths and weaknesses, and are willing to delegate tasks to someone more capable when necessary. They understand the importance of accepting outcomes that may not be in their favor, demonstrating adaptability and maturity. These behaviors indicate a higher level of conscientiousness.

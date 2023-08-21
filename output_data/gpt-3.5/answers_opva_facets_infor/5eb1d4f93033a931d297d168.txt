@@ -1,0 +1,15 @@
+Liveliness: 4.0 - The person seems to have a high level of energy and enjoys making others laugh.
+
+Social self-esteem: 2.0 - The person struggles with feeling comfortable in social settings and has a tendency to compare themselves to others.
+
+Perfectionism: 2.0 - The person tends to focus on the big picture rather than paying attention to details and does not put in a high level of effort when it comes to paying attention to smaller details.
+
+Sociability: 1.0 - The person prefers to be around one or two people and feels uncomfortable in larger social settings.
+
+Social boldness: 3.0 - The person is willing to take on a leadership role in group discussions but is also a good listener.
+
+Diligence: 4.0 - The person pushes themselves to achieve their goals, even when tasks are challenging.
+
+Prudence: 2.0 - The person is impulsive at times and tends to act on impulses when they want something.
+
+Organization: 2.0 - The person is not very organized and does not take the time to reorganize equipment or put it back in the same way it was received.

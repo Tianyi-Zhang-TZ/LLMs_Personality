@@ -1,0 +1,24 @@
+Liveliness: 4.0
+Social self-esteem: 3.0
+Perfectionism: 4.0
+Sociability: 3.5
+Social boldness: 3.5
+Diligence: 4.0
+Prudence: 2.5
+Organization: 4.5
+
+The overall rating for Liveliness is 4.0 because the person seems to have a positive energy and tries to raise the spirits of their team members. 
+
+The overall rating for Social self-esteem is 3.0 because the person felt uncomfortable in a social setting where they didn't know anyone. 
+
+The overall rating for Perfectionism is 4.0 because the person pays close attention to details, values quality, and strives for excellence in their work. 
+
+The overall rating for Sociability is 3.5 because the person attends after-work social events and acknowledges the importance of building positive relationships with colleagues, but may not always feel comfortable in social situations. 
+
+The overall rating for Social boldness is 3.5 because the person tries to participate in group discussions and assumes a leadership role, but may not always feel entirely comfortable doing so. 
+
+The overall rating for Diligence is 4.0 because the person takes on challenging tasks and pushes themselves outside of their comfort zone in order to learn and grow in their work. 
+
+The overall rating for Prudence is 2.5 because the person may not always act on impulses when it comes to getting what they want at work. 
+
+The overall rating for Organization is 4.5 because the person values order and cleanliness, and takes initiative to make sure everything is in its proper place.

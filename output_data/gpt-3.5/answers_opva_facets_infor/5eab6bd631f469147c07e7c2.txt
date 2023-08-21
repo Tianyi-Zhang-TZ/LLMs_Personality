@@ -1,0 +1,15 @@
+Liveliness: 3.0 - The answer to Question 7 suggests that the person is able to bring positivity and energy to a group, which indicates some level of liveliness.
+
+Social self-esteem: 2.0 - The answer to Question 1 suggests that the person can feel uncomfortable in social situations where they don't know anyone, which may indicate lower social self-esteem.
+
+Perfectionism: 3.0 - The answer to Question 6 suggests that the person is able to focus on details and avoid mistakes, indicating some level of perfectionism.
+
+Sociability: 2.0 - The answer to Question 5 suggests that the person can feel stressed and anxious in social situations where they don't know many people, indicating lower sociability.
+
+Social boldness: 2.0 - The answer to Question 3 suggests that the person takes on a listening role rather than a leading role in group discussions, indicating lower social boldness.
+
+Diligence: 4.0 - The answer to Question 4 suggests that the person is able to push themselves to work harder and achieve more, indicating a high level of diligence.
+
+Prudence: 3.0 - The answer to Question 8 suggests that the person is able to exercise some level of self-control and resist impulsive actions, indicating some level of prudence.
+
+Organization: 3.0 - The answer to Question 2 suggests that the person is able to keep their work area organized and tidy, indicating some level of organizational skills.

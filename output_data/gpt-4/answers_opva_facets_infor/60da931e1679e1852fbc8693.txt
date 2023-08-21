@@ -1,0 +1,23 @@
+Sociability: 2.0
+The person seems to be introverted and prefers alone time over social events, indicating low sociability.
+
+Diligence: 3.5
+The person is willing to push themselves harder when interested in a task but may leave it aside if not interested, showing a moderate level of diligence.
+
+Social boldness: 3.0
+The person can be talkative and have plenty of ideas when comfortable with people but may be shy and hold back when not comfortable, indicating a moderate level of social boldness.
+
+Social self-esteem: 2.5
+The person is shy when they don't know people and may feel uncomfortable in unfamiliar social settings, suggesting a slightly low social self-esteem.
+
+Perfectionism: 4.0
+The person gets focused and works hard to avoid making mistakes, indicating a high level of perfectionism.
+
+Liveliness: 3.5
+The person is empathetic and good at raising people's spirits, showing a moderate level of liveliness.
+
+Organization: 4.5
+The person is responsible and puts things back in place, indicating a high level of organization.
+
+Prudence: 3.5
+The person is generally cautious and does not act on impulse, suggesting a moderate level of prudence.

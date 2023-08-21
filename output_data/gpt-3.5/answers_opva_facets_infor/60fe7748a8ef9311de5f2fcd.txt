@@ -1,0 +1,10 @@
+Liveliness: 2.5
+Social self-esteem: 2.0
+Perfectionism: 4.0
+Sociability: 2.5
+Social boldness: 2.0
+Diligence: 3.5
+Prudence: 3.0
+Organization: 4.0
+
+The individual seems to be somewhat reserved and cautious in their social interactions (low scores in Social self-esteem and Social boldness), but they are diligent and detail-oriented in their work (high score in Perfectionism and Organization, and moderate score in Diligence). They are willing to volunteer for projects despite some anxiety, indicating a moderate level of Prudence. The individual also shows some flexibility in their approach to social events, but in general, they prefer to keep a lower profile (moderate score in Sociability and Liveliness).
